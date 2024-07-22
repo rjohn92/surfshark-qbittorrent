@@ -1,0 +1,42 @@
+(N) 2024-05-22T14:11:07 - qBittorrent v4.6.4 started
+(N) 2024-05-22T14:11:07 - Using config directory: /config/qBittorrent
+(N) 2024-05-22T14:11:07 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-22T14:11:07 - Peer ID: "-qB4640-"
+(I) 2024-05-22T14:11:07 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-22T14:11:07 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-22T14:11:07 - Local Peer Discovery support: ON
+(I) 2024-05-22T14:11:07 - Peer Exchange (PeX) support: ON
+(I) 2024-05-22T14:11:07 - Anonymous mode: OFF
+(I) 2024-05-22T14:11:07 - Encryption support: ON
+(I) 2024-05-22T14:11:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-22T14:11:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-22T14:11:07 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-22T14:11:07 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-05-22T14:11:07 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-05-22T14:11:07 - Using built-in WebUI.
+(W) 2024-05-22T14:11:07 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-22T14:11:07 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-22T14:11:12 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2024-05-22T15:01:46 - qBittorrent termination initiated
+(N) 2024-05-22T15:01:46 - qBittorrent is now ready to exit
+(N) 2024-05-22T15:13:03 - qBittorrent v4.6.4 started
+(N) 2024-05-22T15:13:03 - Using config directory: /config/qBittorrent
+(N) 2024-05-22T15:13:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-22T15:13:03 - Peer ID: "-qB4640-"
+(I) 2024-05-22T15:13:03 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-22T15:13:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-22T15:13:03 - Local Peer Discovery support: ON
+(I) 2024-05-22T15:13:03 - Peer Exchange (PeX) support: ON
+(I) 2024-05-22T15:13:03 - Anonymous mode: OFF
+(I) 2024-05-22T15:13:03 - Encryption support: ON
+(I) 2024-05-22T15:13:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-22T15:13:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-22T15:13:03 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-22T15:13:03 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-05-22T15:13:03 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-05-22T15:13:03 - Using built-in WebUI.
+(W) 2024-05-22T15:13:03 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-22T15:13:03 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-22T15:13:08 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2024-05-22T15:21:00 - qBittorrent termination initiated
+(N) 2024-05-22T15:21:00 - qBittorrent is now ready to exit

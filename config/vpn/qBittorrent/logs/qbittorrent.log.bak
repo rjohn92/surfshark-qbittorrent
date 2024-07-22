@@ -1,0 +1,606 @@
+(N) 2024-05-22T15:21:17 - qBittorrent v4.6.4 started
+(N) 2024-05-22T15:21:17 - Using config directory: /config/qBittorrent
+(N) 2024-05-22T15:21:17 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-22T15:21:17 - Peer ID: "-qB4640-"
+(I) 2024-05-22T15:21:17 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-22T15:21:17 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-22T15:21:17 - Local Peer Discovery support: ON
+(I) 2024-05-22T15:21:17 - Peer Exchange (PeX) support: ON
+(I) 2024-05-22T15:21:17 - Anonymous mode: OFF
+(I) 2024-05-22T15:21:17 - Encryption support: ON
+(I) 2024-05-22T15:21:17 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-22T15:21:17 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-22T15:21:17 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-22T15:21:17 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-05-22T15:21:17 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-05-22T15:21:17 - Using built-in WebUI.
+(W) 2024-05-22T15:21:17 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-22T15:21:17 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-22T15:21:22 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2024-05-22T15:53:06 - qBittorrent termination initiated
+(N) 2024-05-22T15:53:06 - qBittorrent is now ready to exit
+(N) 2024-05-22T18:23:16 - qBittorrent v4.6.4 started
+(N) 2024-05-22T18:23:16 - Using config directory: /config/qBittorrent
+(N) 2024-05-22T18:23:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-22T18:23:16 - Peer ID: "-qB4640-"
+(I) 2024-05-22T18:23:16 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-22T18:23:16 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-22T18:23:16 - Local Peer Discovery support: ON
+(I) 2024-05-22T18:23:16 - Peer Exchange (PeX) support: ON
+(I) 2024-05-22T18:23:16 - Anonymous mode: OFF
+(I) 2024-05-22T18:23:16 - Encryption support: ON
+(I) 2024-05-22T18:23:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-22T18:23:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-22T18:23:16 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-22T18:23:16 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-05-22T18:23:16 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-05-22T18:23:17 - Using built-in WebUI.
+(W) 2024-05-22T18:23:17 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-22T18:23:17 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-22T18:23:21 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2024-05-22T18:27:49 - qBittorrent termination initiated
+(N) 2024-05-22T18:27:50 - qBittorrent is now ready to exit
+(N) 2024-05-22T18:35:31 - qBittorrent v4.6.4 started
+(N) 2024-05-22T18:35:31 - Using config directory: /config/qBittorrent
+(N) 2024-05-22T18:35:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-22T18:35:31 - Peer ID: "-qB4640-"
+(I) 2024-05-22T18:35:31 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-22T18:35:31 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-22T18:35:31 - Local Peer Discovery support: ON
+(I) 2024-05-22T18:35:31 - Peer Exchange (PeX) support: ON
+(I) 2024-05-22T18:35:31 - Anonymous mode: OFF
+(I) 2024-05-22T18:35:31 - Encryption support: ON
+(I) 2024-05-22T18:35:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-22T18:35:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-22T18:35:31 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-22T18:35:31 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-05-22T18:35:31 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-05-22T18:35:31 - Using built-in WebUI.
+(W) 2024-05-22T18:35:31 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-22T18:35:31 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-22T18:35:36 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2024-05-22T18:39:29 - qBittorrent termination initiated
+(N) 2024-05-22T18:39:29 - qBittorrent is now ready to exit
+(N) 2024-05-24T10:50:42 - qBittorrent v4.6.4 started
+(N) 2024-05-24T10:50:42 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T10:50:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T10:50:42 - Peer ID: "-qB4640-"
+(I) 2024-05-24T10:50:42 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T10:50:42 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T10:50:42 - Local Peer Discovery support: ON
+(I) 2024-05-24T10:50:42 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T10:50:42 - Anonymous mode: OFF
+(I) 2024-05-24T10:50:42 - Encryption support: ON
+(I) 2024-05-24T10:50:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T10:50:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T10:50:42 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2024-05-24T10:50:42 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2024-05-24T10:50:42 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T10:50:42 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-05-24T10:50:42 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-05-24T10:50:42 - Using built-in WebUI.
+(W) 2024-05-24T10:50:42 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T10:50:42 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T10:50:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(I) 2024-05-24T10:50:42 - Successfully updated IP geolocation database.
+(N) 2024-05-24T11:28:41 - qBittorrent termination initiated
+(N) 2024-05-24T11:28:41 - qBittorrent is now ready to exit
+(N) 2024-05-24T11:29:01 - qBittorrent v4.6.4 started
+(N) 2024-05-24T11:29:01 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T11:29:01 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T11:29:01 - Peer ID: "-qB4640-"
+(I) 2024-05-24T11:29:01 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T11:29:01 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T11:29:01 - Local Peer Discovery support: ON
+(I) 2024-05-24T11:29:01 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T11:29:01 - Anonymous mode: OFF
+(I) 2024-05-24T11:29:01 - Encryption support: ON
+(I) 2024-05-24T11:29:01 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T11:29:01 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T11:29:01 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2024-05-24T11:29:01 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2024-05-24T11:29:01 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T11:29:01 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T11:29:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T11:29:02 - Using built-in WebUI.
+(W) 2024-05-24T11:29:02 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T11:29:02 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T11:30:35 - qBittorrent termination initiated
+(N) 2024-05-24T11:30:35 - qBittorrent is now ready to exit
+(N) 2024-05-24T11:58:10 - qBittorrent v4.6.4 started
+(N) 2024-05-24T11:58:10 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T11:58:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T11:58:10 - Peer ID: "-qB4640-"
+(I) 2024-05-24T11:58:10 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T11:58:10 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T11:58:10 - Local Peer Discovery support: ON
+(I) 2024-05-24T11:58:10 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T11:58:10 - Anonymous mode: OFF
+(I) 2024-05-24T11:58:10 - Encryption support: ON
+(I) 2024-05-24T11:58:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T11:58:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T11:58:10 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2024-05-24T11:58:10 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2024-05-24T11:58:10 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T11:58:10 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T11:58:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T11:58:10 - Using built-in WebUI.
+(W) 2024-05-24T11:58:10 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T11:58:10 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T11:58:10 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-24T12:16:26 - qBittorrent termination initiated
+(N) 2024-05-24T12:16:26 - qBittorrent is now ready to exit
+(N) 2024-05-24T12:53:10 - qBittorrent v4.6.4 started
+(N) 2024-05-24T12:53:10 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T12:53:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T12:53:10 - Peer ID: "-qB4640-"
+(I) 2024-05-24T12:53:10 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T12:53:10 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T12:53:10 - Local Peer Discovery support: ON
+(I) 2024-05-24T12:53:10 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T12:53:10 - Anonymous mode: OFF
+(I) 2024-05-24T12:53:10 - Encryption support: ON
+(I) 2024-05-24T12:53:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T12:53:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T12:53:10 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-05-24T12:53:10 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-05-24T12:53:10 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T12:53:10 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T12:53:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T12:53:10 - Using built-in WebUI.
+(W) 2024-05-24T12:53:10 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T12:53:10 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T12:53:10 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-24T12:58:36 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-05-24T13:06:06 - qBittorrent termination initiated
+(N) 2024-05-24T13:06:06 - qBittorrent is now ready to exit
+(N) 2024-05-24T13:07:11 - qBittorrent v4.6.4 started
+(N) 2024-05-24T13:07:11 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T13:07:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T13:07:11 - Peer ID: "-qB4640-"
+(I) 2024-05-24T13:07:11 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T13:07:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T13:07:11 - Local Peer Discovery support: ON
+(I) 2024-05-24T13:07:11 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T13:07:11 - Anonymous mode: OFF
+(I) 2024-05-24T13:07:11 - Encryption support: ON
+(I) 2024-05-24T13:07:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T13:07:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T13:07:11 - Successfully listening on IP. IP: "172.21.0.3". Port: "TCP/6881"
+(I) 2024-05-24T13:07:11 - Successfully listening on IP. IP: "172.21.0.3". Port: "UTP/6881"
+(I) 2024-05-24T13:07:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T13:07:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T13:07:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T13:07:11 - Using built-in WebUI.
+(W) 2024-05-24T13:07:11 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T13:07:11 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T13:09:52 - qBittorrent termination initiated
+(N) 2024-05-24T13:09:52 - qBittorrent is now ready to exit
+(N) 2024-05-24T13:18:29 - qBittorrent v4.6.4 started
+(N) 2024-05-24T13:18:29 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T13:18:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T13:18:29 - Peer ID: "-qB4640-"
+(I) 2024-05-24T13:18:29 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T13:18:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T13:18:29 - Local Peer Discovery support: ON
+(I) 2024-05-24T13:18:29 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T13:18:29 - Anonymous mode: OFF
+(I) 2024-05-24T13:18:29 - Encryption support: ON
+(I) 2024-05-24T13:18:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T13:18:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T13:18:29 - Successfully listening on IP. IP: "172.26.0.2". Port: "TCP/6881"
+(I) 2024-05-24T13:18:29 - Successfully listening on IP. IP: "172.26.0.2". Port: "UTP/6881"
+(I) 2024-05-24T13:18:29 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T13:18:29 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T13:18:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T13:18:29 - Using built-in WebUI.
+(W) 2024-05-24T13:18:29 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T13:18:29 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T13:18:31 - Successfully listening on IP. IP: "10.8.8.3". Port: "TCP/6881"
+(I) 2024-05-24T13:18:31 - Successfully listening on IP. IP: "10.8.8.3". Port: "UTP/6881"
+(N) 2024-05-24T13:20:44 - qBittorrent termination initiated
+(N) 2024-05-24T13:20:44 - qBittorrent is now ready to exit
+(N) 2024-05-24T13:20:54 - qBittorrent v4.6.4 started
+(N) 2024-05-24T13:20:54 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T13:20:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T13:20:54 - Peer ID: "-qB4640-"
+(I) 2024-05-24T13:20:54 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T13:20:54 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T13:20:54 - Local Peer Discovery support: ON
+(I) 2024-05-24T13:20:54 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T13:20:54 - Anonymous mode: OFF
+(I) 2024-05-24T13:20:54 - Encryption support: ON
+(I) 2024-05-24T13:20:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T13:20:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T13:20:54 - Successfully listening on IP. IP: "172.27.0.3". Port: "TCP/6881"
+(I) 2024-05-24T13:20:54 - Successfully listening on IP. IP: "172.27.0.3". Port: "UTP/6881"
+(I) 2024-05-24T13:20:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T13:20:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T13:20:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T13:20:54 - Using built-in WebUI.
+(W) 2024-05-24T13:20:54 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T13:20:54 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T13:34:26 - qBittorrent termination initiated
+(N) 2024-05-24T13:34:26 - qBittorrent is now ready to exit
+(N) 2024-05-24T13:34:44 - qBittorrent v4.6.4 started
+(N) 2024-05-24T13:34:44 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T13:34:44 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T13:34:44 - Peer ID: "-qB4640-"
+(I) 2024-05-24T13:34:44 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T13:34:44 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T13:34:44 - Local Peer Discovery support: ON
+(I) 2024-05-24T13:34:44 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T13:34:44 - Anonymous mode: OFF
+(I) 2024-05-24T13:34:44 - Encryption support: ON
+(I) 2024-05-24T13:34:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T13:34:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T13:34:44 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-05-24T13:34:44 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-05-24T13:34:44 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T13:34:44 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T13:34:44 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T13:34:44 - Using built-in WebUI.
+(W) 2024-05-24T13:34:44 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T13:34:44 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T13:34:45 - Successfully listening on IP. IP: "10.8.8.6". Port: "TCP/6881"
+(I) 2024-05-24T13:34:45 - Successfully listening on IP. IP: "10.8.8.6". Port: "UTP/6881"
+(N) 2024-05-24T14:03:13 - qBittorrent termination initiated
+(N) 2024-05-24T14:03:13 - qBittorrent is now ready to exit
+(N) 2024-05-24T14:03:51 - qBittorrent v4.6.4 started
+(N) 2024-05-24T14:03:51 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T14:03:51 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T14:03:51 - Peer ID: "-qB4640-"
+(I) 2024-05-24T14:03:51 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T14:03:51 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T14:03:51 - Local Peer Discovery support: ON
+(I) 2024-05-24T14:03:51 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T14:03:51 - Anonymous mode: OFF
+(I) 2024-05-24T14:03:51 - Encryption support: ON
+(I) 2024-05-24T14:03:51 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T14:03:51 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T14:03:51 - Successfully listening on IP. IP: "172.29.0.2". Port: "TCP/6881"
+(I) 2024-05-24T14:03:51 - Successfully listening on IP. IP: "172.29.0.2". Port: "UTP/6881"
+(I) 2024-05-24T14:03:51 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T14:03:51 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T14:03:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T14:03:51 - Using built-in WebUI.
+(W) 2024-05-24T14:03:51 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T14:03:51 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:02:08 - qBittorrent termination initiated
+(N) 2024-05-24T15:02:08 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:02:18 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:02:18 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:02:18 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:02:18 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:02:18 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:02:18 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:02:18 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:02:18 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:02:18 - Anonymous mode: OFF
+(I) 2024-05-24T15:02:18 - Encryption support: ON
+(I) 2024-05-24T15:02:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:02:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:02:18 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:02:18 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:02:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:02:18 - Using built-in WebUI.
+(W) 2024-05-24T15:02:18 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:02:18 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:04:35 - qBittorrent termination initiated
+(N) 2024-05-24T15:04:35 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:04:39 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:04:39 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:04:39 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:04:39 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:04:39 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:04:39 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:04:39 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:04:39 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:04:39 - Anonymous mode: OFF
+(I) 2024-05-24T15:04:39 - Encryption support: ON
+(I) 2024-05-24T15:04:39 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:04:39 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:04:39 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:04:39 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:04:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:04:39 - Using built-in WebUI.
+(W) 2024-05-24T15:04:39 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:04:39 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:04:48 - qBittorrent termination initiated
+(N) 2024-05-24T15:04:49 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:05:02 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:05:02 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:05:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:05:02 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:05:02 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:05:02 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:05:02 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:05:02 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:05:02 - Anonymous mode: OFF
+(I) 2024-05-24T15:05:02 - Encryption support: ON
+(I) 2024-05-24T15:05:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:05:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:05:02 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:05:02 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:05:02 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:05:02 - Using built-in WebUI.
+(W) 2024-05-24T15:05:02 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:05:02 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:07:58 - qBittorrent termination initiated
+(N) 2024-05-24T15:07:58 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:09:29 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:09:29 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:09:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:09:29 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:09:29 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:09:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:09:29 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:09:29 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:09:29 - Anonymous mode: OFF
+(I) 2024-05-24T15:09:29 - Encryption support: ON
+(I) 2024-05-24T15:09:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:09:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:09:29 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:09:29 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:09:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:09:29 - Using built-in WebUI.
+(W) 2024-05-24T15:09:29 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:09:29 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:10:41 - qBittorrent termination initiated
+(N) 2024-05-24T15:10:41 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:10:48 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:10:48 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:10:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:10:48 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:10:48 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:10:48 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:10:48 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:10:48 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:10:48 - Anonymous mode: OFF
+(I) 2024-05-24T15:10:48 - Encryption support: ON
+(I) 2024-05-24T15:10:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:10:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:10:48 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:10:48 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:10:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:10:48 - Using built-in WebUI.
+(W) 2024-05-24T15:10:48 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:10:48 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:11:27 - qBittorrent termination initiated
+(N) 2024-05-24T15:11:27 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:11:33 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:11:33 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:11:33 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:11:33 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:11:33 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:11:33 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:11:33 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:11:33 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:11:33 - Anonymous mode: OFF
+(I) 2024-05-24T15:11:33 - Encryption support: ON
+(I) 2024-05-24T15:11:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:11:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:11:33 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:11:33 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:11:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:11:33 - Using built-in WebUI.
+(W) 2024-05-24T15:11:33 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:11:33 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:12:13 - qBittorrent termination initiated
+(N) 2024-05-24T15:12:13 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:12:21 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:12:21 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:12:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:12:21 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:12:21 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:12:21 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:12:21 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:12:21 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:12:21 - Anonymous mode: OFF
+(I) 2024-05-24T15:12:21 - Encryption support: ON
+(I) 2024-05-24T15:12:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:12:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:12:21 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:12:21 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:12:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:12:22 - Using built-in WebUI.
+(W) 2024-05-24T15:12:22 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:12:22 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T15:13:25 - qBittorrent termination initiated
+(N) 2024-05-24T15:13:25 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:13:33 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:13:33 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:13:33 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:13:33 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:13:33 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:13:33 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:13:33 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:13:33 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:13:33 - Anonymous mode: OFF
+(I) 2024-05-24T15:13:33 - Encryption support: ON
+(I) 2024-05-24T15:13:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:13:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:13:33 - Successfully listening on IP. IP: "192.168.80.2". Port: "TCP/6881"
+(I) 2024-05-24T15:13:33 - Successfully listening on IP. IP: "192.168.80.2". Port: "UTP/6881"
+(I) 2024-05-24T15:13:33 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:13:33 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:13:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:13:33 - Using built-in WebUI.
+(W) 2024-05-24T15:13:33 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:13:33 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T15:13:34 - Successfully listening on IP. IP: "10.8.8.19". Port: "TCP/6881"
+(I) 2024-05-24T15:13:34 - Successfully listening on IP. IP: "10.8.8.19". Port: "UTP/6881"
+(I) 2024-05-24T15:13:34 - Successfully listening on IP. IP: "fe80::fe3d:160c:5e61:15e6%tun0". Port: "TCP/6881"
+(I) 2024-05-24T15:13:34 - Successfully listening on IP. IP: "fe80::fe3d:160c:5e61:15e6%tun0". Port: "UTP/6881"
+(N) 2024-05-24T15:14:23 - qBittorrent termination initiated
+(N) 2024-05-24T15:14:23 - qBittorrent is now ready to exit
+(N) 2024-05-24T15:14:32 - qBittorrent v4.6.4 started
+(N) 2024-05-24T15:14:32 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T15:14:32 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T15:14:32 - Peer ID: "-qB4640-"
+(I) 2024-05-24T15:14:32 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T15:14:32 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T15:14:32 - Local Peer Discovery support: ON
+(I) 2024-05-24T15:14:32 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T15:14:32 - Anonymous mode: OFF
+(I) 2024-05-24T15:14:32 - Encryption support: ON
+(I) 2024-05-24T15:14:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T15:14:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T15:14:32 - Successfully listening on IP. IP: "192.168.96.2". Port: "TCP/6881"
+(I) 2024-05-24T15:14:32 - Successfully listening on IP. IP: "192.168.96.2". Port: "UTP/6881"
+(I) 2024-05-24T15:14:32 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T15:14:32 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T15:14:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T15:14:32 - Using built-in WebUI.
+(W) 2024-05-24T15:14:32 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T15:14:32 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T15:14:33 - Successfully listening on IP. IP: "10.8.8.10". Port: "TCP/6881"
+(I) 2024-05-24T15:14:33 - Successfully listening on IP. IP: "10.8.8.10". Port: "UTP/6881"
+(I) 2024-05-24T15:14:33 - Successfully listening on IP. IP: "fe80::15a9:b01c:e300:fede%tun0". Port: "TCP/6881"
+(I) 2024-05-24T15:14:33 - Successfully listening on IP. IP: "fe80::15a9:b01c:e300:fede%tun0". Port: "UTP/6881"
+(N) 2024-05-24T18:41:49 - qBittorrent termination initiated
+(N) 2024-05-24T18:41:49 - qBittorrent is now ready to exit
+(N) 2024-05-24T19:02:22 - qBittorrent v4.6.4 started
+(N) 2024-05-24T19:02:22 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T19:02:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T19:02:22 - Peer ID: "-qB4640-"
+(I) 2024-05-24T19:02:22 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T19:02:22 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T19:02:22 - Local Peer Discovery support: ON
+(I) 2024-05-24T19:02:22 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T19:02:22 - Anonymous mode: OFF
+(I) 2024-05-24T19:02:22 - Encryption support: ON
+(I) 2024-05-24T19:02:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T19:02:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T19:02:22 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2024-05-24T19:02:22 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2024-05-24T19:02:22 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T19:02:22 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T19:02:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T19:02:22 - Using built-in WebUI.
+(W) 2024-05-24T19:02:22 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T19:02:22 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-24T19:02:22 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-24T19:28:07 - qBittorrent termination initiated
+(N) 2024-05-24T19:28:07 - qBittorrent is now ready to exit
+(N) 2024-05-24T19:28:19 - qBittorrent v4.6.4 started
+(N) 2024-05-24T19:28:19 - Using config directory: /config/qBittorrent
+(N) 2024-05-24T19:28:19 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-24T19:28:19 - Peer ID: "-qB4640-"
+(I) 2024-05-24T19:28:19 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-24T19:28:19 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-24T19:28:19 - Local Peer Discovery support: ON
+(I) 2024-05-24T19:28:19 - Peer Exchange (PeX) support: ON
+(I) 2024-05-24T19:28:19 - Anonymous mode: OFF
+(I) 2024-05-24T19:28:19 - Encryption support: ON
+(I) 2024-05-24T19:28:19 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-24T19:28:19 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-24T19:28:19 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-05-24T19:28:19 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-05-24T19:28:19 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-24T19:28:19 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-24T19:28:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-24T19:28:20 - Using built-in WebUI.
+(W) 2024-05-24T19:28:20 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-05-24T19:28:20 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-24T19:29:15 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-05-24T19:36:34 - Added new torrent. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]"
+(I) 2024-05-24T19:36:35 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-24T19:38:05 - Added new torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-05-25T00:45:47 - Added new torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-25T00:56:07 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-25T00:58:10 - Added new torrent. Torrent: "Schitts.Creek.S01.1080p.AMZN.WEBRip.DDP5.1.x264-QOQ"
+(N) 2024-05-25T00:58:58 - Removed torrent. Torrent: "Schitts.Creek.S01.1080p.AMZN.WEBRip.DDP5.1.x264-QOQ"
+(N) 2024-05-25T01:04:45 - Added new torrent. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-25T01:04:51 - Torrent paused. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-25T01:51:05 - qBittorrent termination initiated
+(N) 2024-05-25T02:27:28 - qBittorrent v4.6.4 started
+(N) 2024-05-25T02:27:28 - Using config directory: /config/qBittorrent
+(N) 2024-05-25T02:27:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-25T02:27:29 - Peer ID: "-qB4640-"
+(I) 2024-05-25T02:27:29 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-25T02:27:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-25T02:27:29 - Local Peer Discovery support: ON
+(I) 2024-05-25T02:27:29 - Peer Exchange (PeX) support: ON
+(I) 2024-05-25T02:27:29 - Anonymous mode: OFF
+(I) 2024-05-25T02:27:29 - Encryption support: ON
+(I) 2024-05-25T02:27:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-25T02:27:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-25T02:27:29 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-05-25T02:27:29 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-05-25T02:27:29 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-25T02:27:29 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-25T02:27:29 - Restored torrent. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]"
+(N) 2024-05-25T02:27:29 - Restored torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-05-25T02:27:29 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-25T02:27:29 - Restored torrent. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(I) 2024-05-25T02:27:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-25T02:27:29 - Using built-in WebUI.
+(N) 2024-05-25T02:27:29 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-25T02:27:29 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-25T02:27:29 - Detected external IP. IP: "73.212.240.94"
+(W) 2024-05-25T02:27:40 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 6/Schitts Creek S06E13.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_mmap (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 6/Schitts Creek S06E13.mp4) error: Invalid argument"
+(W) 2024-05-25T02:30:41 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E04 - Hero (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E04 - Hero (1080p BluRay x265 Silence).mkv) error: End of file"
+(W) 2024-05-25T02:30:53 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E04 - Hero (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E04 - Hero (1080p BluRay x265 Silence).mkv) error: End of file"
+(W) 2024-05-25T02:32:35 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.65.1, username: admin
+(N) 2024-05-25T02:32:56 - WebAPI login success. IP: ::ffff:192.168.65.1
+(W) 2024-05-25T02:34:12 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv) error: End of file"
+(W) 2024-05-25T02:34:22 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv) error: End of file"
+(W) 2024-05-25T02:34:27 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv) error: End of file"
+(W) 2024-05-25T02:34:28 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv) error: End of file"
+(N) 2024-05-25T02:35:44 - Torrent resumed. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(W) 2024-05-25T02:38:41 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv) error: End of file"
+(N) 2024-05-25T02:38:43 - Removed torrent and deleted its content. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(W) 2024-05-25T02:39:14 - File error alert. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". File: "/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) file_read (/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1/Better Call Saul (2015) - S01E05 - Alpine Shepherd Boy (1080p BluRay x265 Silence).mkv) error: End of file"
+(N) 2024-05-25T04:24:43 - Torrent download finished. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-25T11:41:01 - Added new torrent. Torrent: "Killing Eve (2018) Complete Series S01-S04 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)"
+(W) 2024-05-25T12:11:10 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:11:33 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:11:48 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:12:00 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:12:13 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:12:27 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:12:38 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:12:51 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:12:58 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:02 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:07 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:24 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:28 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:35 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:42 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:44 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:47 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:51 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:13:58 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:04 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:16 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:19 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:20 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:22 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:25 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:29 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:31 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:34 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:35 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:36 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:40 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:45 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:47 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:49 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:53 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:55 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:14:59 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:01 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:09 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:13 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:14 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:25 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:29 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:15:39 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:18:38 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:18:39 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:18:45 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:18:48 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:18:51 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"
+(W) 2024-05-25T12:18:55 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". File: "/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv file_open (/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv) error: No such file or directory"

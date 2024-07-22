@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  gluetun:
+    image: qmcgaw/gluetun
+    container_name: gluetun
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - VPN_SERVICE_PROVIDER=${OPENVPN_PROVIDER}
+      - OPENVPN_USER=${OPENVPN_USERNAME}
+      - OPENVPN_PASSWORD=${OPENVPN_PASSWORD}
+      - OPENVPN_CONFIG=${OPENVPN_CONFIG}
+      - TZ=${TZ}
+    volumes:
+      - /home/home-server/Containers/surfshark-qbittorrent/config/vpn:/gluetun/config
+    ports:
+      - 8888:8888/tcp
+      - 8080:8080/tcp  # Map the qBittorrent web UI port through gluetun
+      - 6881:6881/tcp  # Map the qBittorrent torrent port through gluetun
+      - 6881:6881/udp  # Map the qBittorrent torrent port through gluetun
+    networks:
+      - gluetun-network
+    restart: unless-stopped
+
+  qbittorrent:
+    image: linuxserver/qbittorrent
+    container_name: qbittorrent
+    environment:
+      - WEBUI_PORT=8080
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /home/home-server/Containers/surfshark-qbittorrent/config/qBittorrent:/config
+      - /home/home-server/Media:/downloads
+    network_mode: service:gluetun
+    depends_on:
+      - gluetun
+    restart: unless-stopped
+
+networks:
+  gluetun-network:
+    driver: bridge

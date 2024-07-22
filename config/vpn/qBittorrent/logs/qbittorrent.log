@@ -1,0 +1,323 @@
+(N) 2024-05-26T00:39:33 - qBittorrent termination initiated
+(N) 2024-05-26T00:39:33 - qBittorrent is now ready to exit
+(N) 2024-05-26T22:27:11 - qBittorrent v4.6.4 started
+(N) 2024-05-26T22:27:11 - Using config directory: /config/qBittorrent
+(N) 2024-05-26T22:27:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-26T22:27:11 - Peer ID: "-qB4640-"
+(I) 2024-05-26T22:27:11 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-26T22:27:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-26T22:27:11 - Local Peer Discovery support: ON
+(I) 2024-05-26T22:27:11 - Peer Exchange (PeX) support: ON
+(I) 2024-05-26T22:27:11 - Anonymous mode: OFF
+(I) 2024-05-26T22:27:11 - Encryption support: ON
+(I) 2024-05-26T22:27:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-26T22:27:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-26T22:27:11 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-05-26T22:27:11 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-05-26T22:27:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-26T22:27:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-26T22:27:11 - Restored torrent. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-26T22:27:11 - Restored torrent. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]"
+(N) 2024-05-26T22:27:11 - Restored torrent. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]"
+(N) 2024-05-26T22:27:11 - Restored torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(I) 2024-05-26T22:27:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-26T22:27:12 - Using built-in WebUI.
+(N) 2024-05-26T22:27:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-26T22:27:12 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-26T22:27:12 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv fast resume rejected. file_stat(/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv): mismatching file size"
+(W) 2024-05-26T22:27:12 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]". Reason: "Funny Games (2007) [BluRay] [1080p] [YTS.AM] fast resume rejected. file_stat(/downloads/Funny Games (2007) [BluRay] [1080p] [YTS.AM]/Funny.Games.2007.1080p.BluRay.x264-[YTS.AM].mp4): mismatching file size"
+(W) 2024-05-26T22:27:12 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]". Reason: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) fast resume rejected. file_stat(/downloads/Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX)/Featurettes/Deleted Scenes.mkv): mismatching file size"
+(W) 2024-05-26T22:27:12 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) fast resume rejected. file_stat(/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 6/Better Call Saul (2015) - S06E13 - Saul Gone (1080p BluRay x265 Silence).mkv): mismatching file size"
+(I) 2024-05-26T22:27:13 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-27T15:45:33 - qBittorrent termination initiated
+(N) 2024-05-27T15:45:33 - qBittorrent is now ready to exit
+(N) 2024-05-27T16:14:54 - qBittorrent v4.6.4 started
+(N) 2024-05-27T16:14:54 - Using config directory: /config/qBittorrent
+(N) 2024-05-27T16:14:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-27T16:14:54 - Peer ID: "-qB4640-"
+(I) 2024-05-27T16:14:54 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-27T16:14:54 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-27T16:14:54 - Local Peer Discovery support: ON
+(I) 2024-05-27T16:14:54 - Peer Exchange (PeX) support: ON
+(I) 2024-05-27T16:14:54 - Anonymous mode: OFF
+(I) 2024-05-27T16:14:54 - Encryption support: ON
+(I) 2024-05-27T16:14:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-27T16:14:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-27T16:14:54 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-05-27T16:14:54 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-05-27T16:14:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-27T16:14:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-27T16:14:54 - Restored torrent. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-27T16:14:54 - Restored torrent. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]"
+(N) 2024-05-27T16:14:54 - Restored torrent. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]"
+(N) 2024-05-27T16:14:54 - Restored torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(I) 2024-05-27T16:14:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-27T16:14:55 - Using built-in WebUI.
+(N) 2024-05-27T16:14:55 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-27T16:14:55 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-27T16:14:55 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv fast resume rejected. file_stat(/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv): mismatching file size"
+(W) 2024-05-27T16:14:55 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]". Reason: "Funny Games (2007) [BluRay] [1080p] [YTS.AM] fast resume rejected. file_stat(/downloads/Funny Games (2007) [BluRay] [1080p] [YTS.AM]/Funny.Games.2007.1080p.BluRay.x264-[YTS.AM].mp4): mismatching file size"
+(W) 2024-05-27T16:14:55 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]". Reason: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) fast resume rejected. file_stat(/downloads/Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX)/Featurettes/Deleted Scenes.mkv): mismatching file size"
+(W) 2024-05-27T16:14:55 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) fast resume rejected. file_stat(/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 6/Better Call Saul (2015) - S06E13 - Saul Gone (1080p BluRay x265 Silence).mkv): mismatching file size"
+(I) 2024-05-27T16:14:55 - Detected external IP. IP: "73.212.240.94"
+(W) 2024-05-27T16:15:42 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.65.1, username: admin
+(N) 2024-05-27T16:16:17 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-05-27T16:16:35 - Added new torrent. Torrent: "The Other Guys (2010) 1080p BrRip x264 - 1.50GB - YIFY "
+(N) 2024-05-27T16:25:06 - Torrent download finished. Torrent: "The Other Guys (2010) 1080p BrRip x264 - 1.50GB - YIFY "
+(N) 2024-05-27T16:28:45 - Removed torrent. Torrent: "The Other Guys (2010) 1080p BrRip x264 - 1.50GB - YIFY "
+(N) 2024-05-27T16:28:57 - qBittorrent termination initiated
+(N) 2024-05-27T16:28:57 - qBittorrent is now ready to exit
+(N) 2024-05-28T09:22:17 - qBittorrent v4.6.4 started
+(N) 2024-05-28T09:22:17 - Using config directory: /config/qBittorrent
+(N) 2024-05-28T09:22:17 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-28T09:22:17 - Peer ID: "-qB4640-"
+(I) 2024-05-28T09:22:17 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-28T09:22:17 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-28T09:22:17 - Local Peer Discovery support: ON
+(I) 2024-05-28T09:22:17 - Peer Exchange (PeX) support: ON
+(I) 2024-05-28T09:22:17 - Anonymous mode: OFF
+(I) 2024-05-28T09:22:17 - Encryption support: ON
+(I) 2024-05-28T09:22:17 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-28T09:22:17 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-28T09:22:17 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-05-28T09:22:17 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-05-28T09:22:17 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-28T09:22:17 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-28T09:22:17 - Restored torrent. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-28T09:22:17 - Restored torrent. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]"
+(W) 2024-05-28T09:22:17 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]". Reason: "Funny Games (2007) [BluRay] [1080p] [YTS.AM] fast resume rejected. file_stat(/downloads/Funny Games (2007) [BluRay] [1080p] [YTS.AM]/Funny.Games.2007.1080p.BluRay.x264-[YTS.AM].mp4): mismatching file size"
+(W) 2024-05-28T09:22:17 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]". Reason: "Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv fast resume rejected. file_stat(/downloads/Mad.Max.Fury.Road.2015.1080p.HDR.Bluray.AV1.Opus.Multi4-dAV1nci.mkv): mismatching file size"
+(N) 2024-05-28T09:22:17 - Restored torrent. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]"
+(N) 2024-05-28T09:22:17 - Restored torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(I) 2024-05-28T09:22:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-28T09:22:18 - Using built-in WebUI.
+(N) 2024-05-28T09:22:18 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-28T09:22:18 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-28T09:22:18 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]". Reason: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) fast resume rejected. file_stat(/downloads/Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX)/Featurettes/Deleted Scenes.mkv): mismatching file size"
+(W) 2024-05-28T09:22:18 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]". Reason: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) fast resume rejected. file_stat(/downloads/Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 6/Better Call Saul (2015) - S06E13 - Saul Gone (1080p BluRay x265 Silence).mkv): mismatching file size"
+(I) 2024-05-28T09:22:18 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-28T09:22:55 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-05-28T09:24:05 - Added new torrent. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(N) 2024-05-28T09:24:18 - Removed torrent. Torrent: "Mad Max: Fury Road (2015) 1080p HDR BluRay AV1 Opus Multi4 [dAV1nci]"
+(N) 2024-05-28T09:24:18 - Removed torrent. Torrent: "Funny Games (2007) [BluRay] [1080p] [YTS] [YIFY]"
+(N) 2024-05-28T09:24:18 - Removed torrent. Torrent: "Zombieland (2009) + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RZeroX) [QxR]"
+(N) 2024-05-28T09:24:18 - Removed torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-05-28T09:27:13 - Added new torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-28T09:27:27 - Torrent paused. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-28T09:27:28 - Torrent paused. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(N) 2024-05-28T09:27:34 - Torrent resumed. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(N) 2024-05-28T09:28:34 - Torrent download finished. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(N) 2024-05-28T09:29:04 - Torrent resumed. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-28T09:33:27 - Added new torrent. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2024-05-28T09:40:04 - Torrent download finished. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(W) 2024-05-28T10:07:27 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:10:16 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:13:03 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:26:27 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:26:28 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:26:29 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:28:01 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:28:03 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:41:18 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:41:40 - File error alert. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". File: "/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] file_open (/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv) error: No such file or directory"
+(W) 2024-05-28T10:49:56 - File error alert. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY". File: "/downloads/Mad Max Fury Road (2015) [1080p]/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4". Reason: "Mad Max Fury Road (2015) [1080p] file_open (/downloads/Mad Max Fury Road (2015) [1080p]/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4) error: No such file or directory"
+(N) 2024-05-28T16:10:54 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-05-28T16:35:15 - qBittorrent termination initiated
+(N) 2024-05-28T16:35:15 - qBittorrent is now ready to exit
+(N) 2024-05-28T16:51:28 - qBittorrent v4.6.4 started
+(N) 2024-05-28T16:51:28 - Using config directory: /config/qBittorrent
+(N) 2024-05-28T16:51:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-28T16:51:28 - Peer ID: "-qB4640-"
+(I) 2024-05-28T16:51:28 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-28T16:51:28 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-28T16:51:28 - Local Peer Discovery support: ON
+(I) 2024-05-28T16:51:28 - Peer Exchange (PeX) support: ON
+(I) 2024-05-28T16:51:28 - Anonymous mode: OFF
+(I) 2024-05-28T16:51:28 - Encryption support: ON
+(I) 2024-05-28T16:51:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-28T16:51:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-28T16:51:28 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-05-28T16:51:28 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-05-28T16:51:28 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-28T16:51:28 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-28T16:51:28 - Restored torrent. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2024-05-28T16:51:28 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-28T16:51:28 - Restored torrent. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(I) 2024-05-28T16:51:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-28T16:51:29 - Using built-in WebUI.
+(N) 2024-05-28T16:51:29 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-28T16:51:29 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-28T16:51:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY". Reason: "Mad Max Fury Road (2015) [1080p] fast resume rejected. file_stat(/downloads/Mad Max Fury Road (2015) [1080p]/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4): mismatching file size"
+(W) 2024-05-28T16:51:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] fast resume rejected. file_stat(/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/NEW upcoming releases by Xclusive.txt): mismatching file size"
+(I) 2024-05-28T16:51:29 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-28T16:52:31 - WebAPI login success. IP: ::ffff:192.168.65.1
+(W) 2024-05-28T16:54:40 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 4/Schitts Creek S04E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 4/Schitts Creek S04E07.mp4) error: End of file"
+(W) 2024-05-28T16:54:52 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 4/Schitts Creek S04E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 4/Schitts Creek S04E07.mp4) error: End of file"
+(W) 2024-05-28T17:04:00 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 6/Schitts Creek S06E02.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 6/Schitts Creek S06E02.mp4) error: End of file"
+(W) 2024-05-28T17:04:01 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 6/Schitts Creek S06E02.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 6/Schitts Creek S06E02.mp4) error: End of file"
+(W) 2024-05-28T17:04:06 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E11.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E11.mp4) error: End of file"
+(N) 2024-05-28T17:07:17 - Torrent paused. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-28T17:30:42 - Torrent resumed. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(W) 2024-05-28T17:31:31 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4) error: End of file"
+(W) 2024-05-28T17:31:32 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4) error: End of file"
+(W) 2024-05-28T17:31:34 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4) error: End of file"
+(W) 2024-05-28T17:31:42 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4) error: End of file"
+(W) 2024-05-28T17:31:47 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_read (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 1/Schitts Creek S01E07.mp4) error: End of file"
+(N) 2024-05-28T17:32:43 - Torrent paused. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-28T17:33:33 - qBittorrent termination initiated
+(N) 2024-05-28T17:33:33 - qBittorrent is now ready to exit
+(N) 2024-05-30T01:38:19 - qBittorrent v4.6.4 started
+(N) 2024-05-30T01:38:19 - Using config directory: /config/qBittorrent
+(N) 2024-05-30T01:38:19 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-30T01:38:19 - Peer ID: "-qB4640-"
+(I) 2024-05-30T01:38:19 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-30T01:38:19 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-30T01:38:19 - Local Peer Discovery support: ON
+(I) 2024-05-30T01:38:19 - Peer Exchange (PeX) support: ON
+(I) 2024-05-30T01:38:19 - Anonymous mode: OFF
+(I) 2024-05-30T01:38:19 - Encryption support: ON
+(I) 2024-05-30T01:38:19 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-30T01:38:19 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-30T01:38:19 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-05-30T01:38:19 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-05-30T01:38:19 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-30T01:38:19 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-30T01:38:19 - Restored torrent. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2024-05-30T01:38:19 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-05-30T01:38:19 - Restored torrent. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(I) 2024-05-30T01:38:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-05-30T01:38:20 - Using built-in WebUI.
+(N) 2024-05-30T01:38:20 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-30T01:38:20 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-05-30T01:38:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG". Reason: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx] fast resume rejected. file_stat(/downloads/The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]/NEW upcoming releases by Xclusive.txt): mismatching file size"
+(W) 2024-05-30T01:38:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY". Reason: "Mad Max Fury Road (2015) [1080p] fast resume rejected. file_stat(/downloads/Mad Max Fury Road (2015) [1080p]/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4): mismatching file size"
+(I) 2024-05-30T01:38:20 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-05-30T01:38:41 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-05-30T01:39:06 - Added new torrent. Torrent: "Sailor Moon R: The Movie: The Promise of the Rose (1993) [1080p] [BluRay] [2.0] [YTS] [YIFY]"
+(N) 2024-05-30T01:40:58 - Torrent download finished. Torrent: "Sailor Moon R: The Movie: The Promise of the Rose (1993) [1080p] [BluRay] [2.0] [YTS] [YIFY]"
+(N) 2024-05-30T01:42:41 - Added new torrent. Torrent: "[Sokudo] Sailor Moon Crystal S1-S3 + 2021 Movie [1080p BD][AV1][dual audio]"
+(N) 2024-05-30T05:02:09 - Torrent download finished. Torrent: "[Sokudo] Sailor Moon Crystal S1-S3 + 2021 Movie [1080p BD][AV1][dual audio]"
+(N) 2024-05-30T10:55:41 - Added new torrent. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]"
+(N) 2024-05-30T12:07:39 - Torrent download finished. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]"
+(N) 2024-05-30T13:44:54 - Added new torrent. Torrent: "Sailor Moon Season 2 Complete WEB x264 [i_c]"
+(N) 2024-05-30T13:47:23 - Removed torrent. Torrent: "The.First.Omen.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2024-05-30T13:47:30 - Removed torrent. Torrent: "Mad Max: Fury Road (2015) 1080p BrRip x264 - YIFY"
+(N) 2024-06-04T12:18:31 - qBittorrent v4.6.4 started
+(N) 2024-06-04T12:18:31 - Using config directory: /config/qBittorrent
+(N) 2024-06-04T12:18:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-04T12:18:31 - Peer ID: "-qB4640-"
+(I) 2024-06-04T12:18:31 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-06-04T12:18:31 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-04T12:18:31 - Local Peer Discovery support: ON
+(I) 2024-06-04T12:18:31 - Peer Exchange (PeX) support: ON
+(I) 2024-06-04T12:18:31 - Anonymous mode: OFF
+(I) 2024-06-04T12:18:31 - Encryption support: ON
+(I) 2024-06-04T12:18:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-04T12:18:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-04T12:18:31 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-06-04T12:18:31 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-06-04T12:18:31 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-04T12:18:31 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-04T12:18:31 - Restored torrent. Torrent: "Sailor Moon Season 2 Complete WEB x264 [i_c]"
+(N) 2024-06-04T12:18:31 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-04T12:18:31 - Restored torrent. Torrent: "Sailor Moon R: The Movie: The Promise of the Rose (1993) [1080p] [BluRay] [2.0] [YTS] [YIFY]"
+(N) 2024-06-04T12:18:31 - Restored torrent. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]"
+(N) 2024-06-04T12:18:31 - Restored torrent. Torrent: "[Sokudo] Sailor Moon Crystal S1-S3 + 2021 Movie [1080p BD][AV1][dual audio]"
+(I) 2024-06-04T12:18:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 01:39:38 2024.
+(N) 2024-06-04T12:18:31 - Using built-in WebUI.
+(N) 2024-06-04T12:18:31 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-04T12:18:31 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-04T12:18:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]". Reason: "Sailor Moon Season 1 WEB x264 [i_c] fast resume rejected. file_stat(/downloads/Sailor Moon Season 1 WEB x264 [i_c]/Sailor Moon S01E35 Ice Princess.mkv): mismatching file size"
+(I) 2024-06-04T12:18:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(I) 2024-06-04T12:18:31 - Successfully updated IP geolocation database.
+(I) 2024-06-04T12:18:31 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-06-04T12:25:09 - qBittorrent termination initiated
+(N) 2024-06-04T12:25:11 - qBittorrent is now ready to exit
+(N) 2024-06-04T12:29:11 - qBittorrent v4.6.4 started
+(N) 2024-06-04T12:29:11 - Using config directory: /config/qBittorrent
+(N) 2024-06-04T12:29:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-04T12:29:11 - Peer ID: "-qB4640-"
+(I) 2024-06-04T12:29:11 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-06-04T12:29:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-04T12:29:11 - Local Peer Discovery support: ON
+(I) 2024-06-04T12:29:11 - Peer Exchange (PeX) support: ON
+(I) 2024-06-04T12:29:11 - Anonymous mode: OFF
+(I) 2024-06-04T12:29:11 - Encryption support: ON
+(I) 2024-06-04T12:29:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-04T12:29:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-04T12:29:11 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-06-04T12:29:11 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-06-04T12:29:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-04T12:29:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-04T12:29:11 - Restored torrent. Torrent: "Sailor Moon Season 2 Complete WEB x264 [i_c]"
+(N) 2024-06-04T12:29:11 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-04T12:29:11 - Restored torrent. Torrent: "Sailor Moon R: The Movie: The Promise of the Rose (1993) [1080p] [BluRay] [2.0] [YTS] [YIFY]"
+(N) 2024-06-04T12:29:11 - Restored torrent. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]"
+(N) 2024-06-04T12:29:11 - Restored torrent. Torrent: "[Sokudo] Sailor Moon Crystal S1-S3 + 2021 Movie [1080p BD][AV1][dual audio]"
+(I) 2024-06-04T12:29:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-04T12:29:11 - Using built-in WebUI.
+(N) 2024-06-04T12:29:11 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-04T12:29:11 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-04T12:29:12 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]". Reason: "Sailor Moon Season 1 WEB x264 [i_c] fast resume rejected. file_stat(/downloads/Sailor Moon Season 1 WEB x264 [i_c]/Sailor Moon S01E35 Ice Princess.mkv): mismatching file size"
+(I) 2024-06-04T12:29:14 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-06-04T12:30:10 - WebAPI login success. IP: ::ffff:192.168.65.1
+(N) 2024-06-04T18:01:49 - qBittorrent termination initiated
+(N) 2024-06-04T18:01:49 - qBittorrent is now ready to exit
+(N) 2024-06-04T18:19:20 - qBittorrent v4.6.4 started
+(N) 2024-06-04T18:19:20 - Using config directory: /config/qBittorrent
+(N) 2024-06-04T18:19:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-04T18:19:20 - Peer ID: "-qB4640-"
+(I) 2024-06-04T18:19:20 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-06-04T18:19:20 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-04T18:19:20 - Local Peer Discovery support: ON
+(I) 2024-06-04T18:19:20 - Peer Exchange (PeX) support: ON
+(I) 2024-06-04T18:19:20 - Anonymous mode: OFF
+(I) 2024-06-04T18:19:20 - Encryption support: ON
+(I) 2024-06-04T18:19:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-04T18:19:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-04T18:19:20 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-06-04T18:19:20 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-06-04T18:19:20 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-04T18:19:20 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-04T18:19:20 - Restored torrent. Torrent: "Sailor Moon Season 2 Complete WEB x264 [i_c]"
+(N) 2024-06-04T18:19:20 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-04T18:19:20 - Restored torrent. Torrent: "Sailor Moon R: The Movie: The Promise of the Rose (1993) [1080p] [BluRay] [2.0] [YTS] [YIFY]"
+(N) 2024-06-04T18:19:20 - Restored torrent. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]"
+(N) 2024-06-04T18:19:20 - Restored torrent. Torrent: "[Sokudo] Sailor Moon Crystal S1-S3 + 2021 Movie [1080p BD][AV1][dual audio]"
+(I) 2024-06-04T18:19:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-04T18:19:21 - Using built-in WebUI.
+(N) 2024-06-04T18:19:21 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-04T18:19:21 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-04T18:19:21 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]". Reason: "Sailor Moon Season 1 WEB x264 [i_c] fast resume rejected. file_stat(/downloads/Sailor Moon Season 1 WEB x264 [i_c]/Sailor Moon S01E35 Ice Princess.mkv): mismatching file size"
+(I) 2024-06-04T18:19:21 - Detected external IP. IP: "73.212.240.94"
+(C) 2024-06-04T22:19:20 - Couldn't save torrent resume data to '/config/qBittorrent/BT_backup/9221d956db3744fabf3c54ab741cc161d95e2e02.fastresume'. Error: No space left on device.
+(C) 2024-06-04T22:19:20 - Couldn't save torrent resume data to '/config/qBittorrent/BT_backup/4c7eee5e4f9da24d2741981eab0ec91f6c45ec4b.fastresume'. Error: No space left on device.
+(N) 2024-06-06T12:03:56 - qBittorrent v4.6.4 started
+(N) 2024-06-06T12:03:56 - Using config directory: /config/qBittorrent
+(N) 2024-06-06T12:03:56 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-06T12:03:57 - Peer ID: "-qB4640-"
+(I) 2024-06-06T12:03:57 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-06-06T12:03:57 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-06T12:03:57 - Local Peer Discovery support: ON
+(I) 2024-06-06T12:03:57 - Peer Exchange (PeX) support: ON
+(I) 2024-06-06T12:03:57 - Anonymous mode: OFF
+(I) 2024-06-06T12:03:57 - Encryption support: ON
+(I) 2024-06-06T12:03:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-06T12:03:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-06T12:03:57 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-06-06T12:03:57 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-06-06T12:03:57 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-06T12:03:57 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-06T12:03:57 - Restored torrent. Torrent: "Sailor Moon Season 2 Complete WEB x264 [i_c]"
+(N) 2024-06-06T12:03:57 - Restored torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-06T12:03:57 - Restored torrent. Torrent: "Sailor Moon R: The Movie: The Promise of the Rose (1993) [1080p] [BluRay] [2.0] [YTS] [YIFY]"
+(N) 2024-06-06T12:03:57 - Restored torrent. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]"
+(N) 2024-06-06T12:03:57 - Restored torrent. Torrent: "[Sokudo] Sailor Moon Crystal S1-S3 + 2021 Movie [1080p BD][AV1][dual audio]"
+(I) 2024-06-06T12:03:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-06T12:03:57 - Using built-in WebUI.
+(N) 2024-06-06T12:03:57 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-06T12:03:57 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-06T12:03:57 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Sailor Moon Season 1 WEB x264 [i_c]". Reason: "Sailor Moon Season 1 WEB x264 [i_c] fast resume rejected. file_stat(/downloads/Sailor Moon Season 1 WEB x264 [i_c]/Sailor Moon S01E35 Ice Princess.mkv): mismatching file size"
+(I) 2024-06-06T12:03:57 - Detected external IP. IP: "73.212.240.94"
+(N) 2024-06-06T12:07:00 - qBittorrent termination initiated
+(N) 2024-06-06T12:07:02 - qBittorrent is now ready to exit

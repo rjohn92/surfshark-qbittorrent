@@ -1,0 +1,382 @@
+(W) 2024-06-14T17:05:37 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX". Reason: "The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX fast resume rejected. file_stat(/downloads/The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX/The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX.jpg): mismatching file size"
+(I) 2024-06-14T17:05:38 - Successfully listening on IP. IP: "10.8.8.9". Port: "TCP/6881"
+(I) 2024-06-14T17:05:38 - Successfully listening on IP. IP: "10.8.8.9". Port: "UTP/6881"
+(I) 2024-06-14T17:05:38 - Successfully listening on IP. IP: "fe80::8dbb:bbb8:41cb:d887%tun0". Port: "TCP/6881"
+(I) 2024-06-14T17:05:38 - Successfully listening on IP. IP: "fe80::8dbb:bbb8:41cb:d887%tun0". Port: "UTP/6881"
+(I) 2024-06-14T17:06:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(I) 2024-06-14T17:06:10 - Successfully updated IP geolocation database.
+(N) 2024-06-14T17:08:29 - WebAPI login success. IP: ::ffff:10.0.0.146
+(N) 2024-06-14T17:08:52 - Torrent resumed. Torrent: "The.Peanuts.Classics.S01.1080p.ATVP.WEB-DL.H.264-EniaHD"
+(I) 2024-06-14T17:08:53 - Detected external IP. IP: "146.70.111.92"
+(I) 2024-06-14T17:08:57 - Detected external IP. IP: "193.176.31.45"
+(N) 2024-06-14T17:09:13 - Torrent paused. Torrent: "The.Peanuts.Classics.S01.1080p.ATVP.WEB-DL.H.264-EniaHD"
+(N) 2024-06-14T19:28:15 - qBittorrent termination initiated
+(N) 2024-06-14T19:28:15 - qBittorrent is now ready to exit
+(W) 2024-06-14T19:28:54 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2024-06-14T19:28:54 - qBittorrent v4.6.5 started
+(N) 2024-06-14T19:28:54 - Using config directory: /config/qBittorrent
+(N) 2024-06-14T19:28:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-14T19:28:54 - Peer ID: "-qB4650-"
+(I) 2024-06-14T19:28:54 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-06-14T19:28:54 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-14T19:28:54 - Local Peer Discovery support: ON
+(I) 2024-06-14T19:28:54 - Peer Exchange (PeX) support: ON
+(I) 2024-06-14T19:28:54 - Anonymous mode: OFF
+(I) 2024-06-14T19:28:54 - Encryption support: ON
+(I) 2024-06-14T19:28:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-14T19:28:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-14T19:28:54 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2024-06-14T19:28:54 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2024-06-14T19:28:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-14T19:28:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "Friday the 13th Part VI - Jason Lives (1986) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "The.Peanuts.Classics.S01.1080p.ATVP.WEB-DL.H.264-EniaHD"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "24.S01.1080p.BluRay.x265-KONTRAST"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "The Book of Eli 2010 1080p BluRay DD+ 5.1 x265-EDGE2020"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "Friday the 13th: The Final Chapter (1984) 1080p BrRip x264 - YIFY"
+(W) 2024-06-14T19:28:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Book of Eli 2010 1080p BluRay DD+ 5.1 x265-EDGE2020". Reason: "The.Book.of.Eli.2010.1080p.BluRay.DDP.5.1.H.265-EDGE2020.mkv fast resume rejected. file_stat(/downloads/The.Book.of.Eli.2010.1080p.BluRay.DDP.5.1.H.265-EDGE2020.mkv): mismatching file size"
+(W) 2024-06-14T19:28:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "24.S01.1080p.BluRay.x265-KONTRAST". Reason: "24.S01.1080p.BluRay.x265-KONTRAST fast resume rejected. file_stat(/downloads/24.S01.1080p.BluRay.x265-KONTRAST/24.S01E02.1080p.BluRay.x265-KONTRAST.mp4): mismatching file size"
+(W) 2024-06-14T19:28:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Friday the 13th: The Final Chapter (1984) 1080p BrRip x264 - YIFY". Reason: "Friday the 13th The Final Chapter (1984) [1080p] fast resume rejected. file_stat(/downloads/Friday the 13th The Final Chapter (1984) [1080p]/Friday.the.13th.The.Final.Chapter.1984.1080p.BluRay.x264.YIFY.mp4): mismatching file size"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "A Clockwork Orange (1971) (1080p BluRay AI x265 HEVC 10bit DTS 5.1 Q18 Joy) [UTR]"
+(W) 2024-06-14T19:28:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "A Clockwork Orange (1971) (1080p BluRay AI x265 HEVC 10bit DTS 5.1 Q18 Joy) [UTR]". Reason: "A Clockwork Orange (1971)  [1080p x265 q18 FS100 Joy].mkv fast resume rejected. file_stat(/downloads/A Clockwork Orange (1971)  [1080p x265 q18 FS100 Joy].mkv): mismatching file size"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "Friday.The.13th-A.New.Beginning.1985.HEVC.1080p.ITA-ENG.AAC.SUBS.mkv"
+(W) 2024-06-14T19:28:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Friday.The.13th-A.New.Beginning.1985.HEVC.1080p.ITA-ENG.AAC.SUBS.mkv". Reason: "Friday.The.13th-A.New.Beginning.1985.HEVC.1080p.ITA-ENG.AAC.SUBS.mkv fast resume rejected. file_stat(/downloads/Friday.The.13th-A.New.Beginning.1985.HEVC.1080p.ITA-ENG.AAC.SUBS.mkv): mismatching file size"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "The Mandalorian (2019) Season 3 S03 (2160p DSNP WEB-DL x265 HEVC 10bit Atmos DDP 5.1 Vyndros)"
+(N) 2024-06-14T19:28:54 - Restored torrent. Torrent: "The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX"
+(W) 2024-06-14T19:28:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Mandalorian (2019) Season 3 S03 (2160p DSNP WEB-DL x265 HEVC 10bit Atmos DDP 5.1 Vyndros)". Reason: "The Mandalorian (2019) Season 3 S03 (2160p DSNP WEB-DL x265 HEVC 10bit Atmos DDP 5.1 Vyndros) fast resume rejected. file_stat(/downloads/The Mandalorian (2019) Season 3 S03 (2160p DSNP WEB-DL x265 HEVC 10bit Atmos DDP 5.1 Vyndros)/The.Mandalorian.S03E01.Chapter.17.The.Apostate.2160p.10bit.DSNP.WEB-DL.DDP5.1.HEVC-Vyndros.mkv): mismatching file size"
+(I) 2024-06-14T19:28:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-14T19:28:55 - Using built-in WebUI.
+(W) 2024-06-14T19:28:55 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-06-14T19:28:55 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-14T19:28:55 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX". Reason: "The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX fast resume rejected. file_stat(/downloads/The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX/The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX.jpg): mismatching file size"
+(I) 2024-06-14T19:28:55 - Successfully listening on IP. IP: "10.8.8.12". Port: "TCP/6881"
+(I) 2024-06-14T19:28:55 - Successfully listening on IP. IP: "10.8.8.12". Port: "UTP/6881"
+(I) 2024-06-14T19:28:55 - Successfully listening on IP. IP: "fe80::a5a2:f805:db3f:d8e9%tun0". Port: "TCP/6881"
+(I) 2024-06-14T19:28:55 - Successfully listening on IP. IP: "fe80::a5a2:f805:db3f:d8e9%tun0". Port: "UTP/6881"
+(N) 2024-06-14T23:58:22 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2024-06-14T23:59:52 - Added new torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(I) 2024-06-14T23:59:54 - Detected external IP. IP: "217.138.216.244"
+(N) 2024-06-14T23:59:56 - Torrent paused. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "24.S01.1080p.BluRay.x265-KONTRAST"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "The Book of Eli 2010 1080p BluRay DD+ 5.1 x265-EDGE2020"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "Friday the 13th: The Final Chapter (1984) 1080p BrRip x264 - YIFY"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "The Mandalorian (2019) Season 3 S03 (2160p DSNP WEB-DL x265 HEVC 10bit Atmos DDP 5.1 Vyndros)"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "The Fall Guy 2024 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "A Clockwork Orange (1971) (1080p BluRay AI x265 HEVC 10bit DTS 5.1 Q18 Joy) [UTR]"
+(N) 2024-06-15T00:00:13 - Removed torrent. Torrent: "Friday.The.13th-A.New.Beginning.1985.HEVC.1080p.ITA-ENG.AAC.SUBS.mkv"
+(N) 2024-06-15T00:00:20 - Removed torrent. Torrent: "The.Peanuts.Classics.S01.1080p.ATVP.WEB-DL.H.264-EniaHD"
+(W) 2024-06-15T00:05:52 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.18.0.1, username: admin
+(W) 2024-06-15T00:05:56 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.18.0.1, username: admin
+(W) 2024-06-15T00:06:43 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.18.0.1, username: admin
+(N) 2024-06-15T00:07:24 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2024-06-15T00:08:07 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-15T00:08:31 - qBittorrent termination initiated
+(N) 2024-06-15T00:08:31 - qBittorrent is now ready to exit
+(W) 2024-06-15T00:09:10 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2024-06-15T00:09:10 - qBittorrent v4.6.5 started
+(N) 2024-06-15T00:09:10 - Using config directory: /config/qBittorrent
+(N) 2024-06-15T00:09:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-15T00:09:10 - Peer ID: "-qB4650-"
+(I) 2024-06-15T00:09:10 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-06-15T00:09:10 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-15T00:09:10 - Local Peer Discovery support: ON
+(I) 2024-06-15T00:09:10 - Peer Exchange (PeX) support: ON
+(I) 2024-06-15T00:09:10 - Anonymous mode: OFF
+(I) 2024-06-15T00:09:10 - Encryption support: ON
+(I) 2024-06-15T00:09:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-15T00:09:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-15T00:09:10 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2024-06-15T00:09:10 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2024-06-15T00:09:10 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-15T00:09:10 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-15T00:09:10 - Restored torrent. Torrent: "Friday the 13th Part VI - Jason Lives (1986) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-06-15T00:09:10 - Restored torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(I) 2024-06-15T00:09:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-15T00:09:10 - Using built-in WebUI.
+(W) 2024-06-15T00:09:10 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-06-15T00:09:10 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-06-15T00:09:12 - Successfully listening on IP. IP: "10.8.8.2". Port: "TCP/6881"
+(I) 2024-06-15T00:09:12 - Successfully listening on IP. IP: "10.8.8.2". Port: "UTP/6881"
+(I) 2024-06-15T00:09:12 - Successfully listening on IP. IP: "fe80::edcb:c889:aa3b:4fc6%tun0". Port: "TCP/6881"
+(I) 2024-06-15T00:09:12 - Successfully listening on IP. IP: "fe80::edcb:c889:aa3b:4fc6%tun0". Port: "UTP/6881"
+(I) 2024-06-15T00:09:14 - Detected external IP. IP: "149.88.20.98"
+(W) 2024-06-15T00:10:07 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.18.0.1, username: admin
+(N) 2024-06-15T00:10:14 - WebAPI login success. IP: ::ffff:172.18.0.1
+(I) 2024-06-15T00:10:14 - Detected external IP. IP: "193.176.31.45"
+(N) 2024-06-15T00:40:19 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2024-06-15T08:39:01 - qBittorrent termination initiated
+(N) 2024-06-15T08:39:01 - qBittorrent is now ready to exit
+(W) 2024-06-15T08:49:18 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2024-06-15T08:49:18 - qBittorrent v4.6.5 started
+(N) 2024-06-15T08:49:18 - Using config directory: /config/qBittorrent
+(N) 2024-06-15T08:49:18 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-15T08:49:18 - Peer ID: "-qB4650-"
+(I) 2024-06-15T08:49:18 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-06-15T08:49:18 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-15T08:49:18 - Local Peer Discovery support: ON
+(I) 2024-06-15T08:49:18 - Peer Exchange (PeX) support: ON
+(I) 2024-06-15T08:49:18 - Anonymous mode: OFF
+(I) 2024-06-15T08:49:18 - Encryption support: ON
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-15T08:49:18 - Restored torrent. Torrent: "Friday the 13th Part VI - Jason Lives (1986) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-06-15T08:49:18 - Restored torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(I) 2024-06-15T08:49:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-15T08:49:18 - Using built-in WebUI.
+(W) 2024-06-15T08:49:18 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-06-15T08:49:18 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "10.8.8.15". Port: "TCP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "10.8.8.15". Port: "UTP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "fe80::5250:7b38:d2f5:6d09%tun0". Port: "TCP/6881"
+(I) 2024-06-15T08:49:18 - Successfully listening on IP. IP: "fe80::5250:7b38:d2f5:6d09%tun0". Port: "UTP/6881"
+(I) 2024-06-15T08:49:21 - Detected external IP. IP: "84.17.58.155"
+(N) 2024-06-15T08:52:00 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-06-15T08:52:09 - Torrent resumed. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(N) 2024-06-15T09:10:13 - qBittorrent termination initiated
+(N) 2024-06-15T09:10:15 - qBittorrent is now ready to exit
+(W) 2024-06-15T11:46:39 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2024-06-15T11:46:39 - qBittorrent v4.6.5 started
+(N) 2024-06-15T11:46:39 - Using config directory: /config/qBittorrent
+(N) 2024-06-15T11:46:39 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-15T11:46:39 - Peer ID: "-qB4650-"
+(I) 2024-06-15T11:46:39 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-06-15T11:46:39 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-15T11:46:39 - Local Peer Discovery support: ON
+(I) 2024-06-15T11:46:39 - Peer Exchange (PeX) support: ON
+(I) 2024-06-15T11:46:39 - Anonymous mode: OFF
+(I) 2024-06-15T11:46:39 - Encryption support: ON
+(I) 2024-06-15T11:46:39 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-15T11:46:39 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-15T11:46:39 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-06-15T11:46:39 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(I) 2024-06-15T11:46:39 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-15T11:46:39 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-15T11:46:39 - Restored torrent. Torrent: "Friday the 13th Part VI - Jason Lives (1986) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-06-15T11:46:39 - Restored torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(I) 2024-06-15T11:46:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-15T11:46:39 - Using built-in WebUI.
+(W) 2024-06-15T11:46:39 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-06-15T11:46:39 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-15T11:46:39 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]". Reason: "Marvel's Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) fast resume rejected. file_stat(/downloads/Marvel's Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE)/Marvel's Luke Cage (2016) - S01E01 - Moment of Truth (1080p NF WEBRip x265 ImE).mkv): mismatching file size"
+(I) 2024-06-15T11:46:41 - Successfully listening on IP. IP: "10.8.8.16". Port: "TCP/6881"
+(I) 2024-06-15T11:46:41 - Successfully listening on IP. IP: "10.8.8.16". Port: "UTP/6881"
+(I) 2024-06-15T11:46:41 - Successfully listening on IP. IP: "fe80::efd4:a629:827b:67d6%tun0". Port: "TCP/6881"
+(I) 2024-06-15T11:46:41 - Successfully listening on IP. IP: "fe80::efd4:a629:827b:67d6%tun0". Port: "UTP/6881"
+(N) 2024-06-15T11:47:32 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2024-06-15T12:04:44 - qBittorrent termination initiated
+(N) 2024-06-15T12:04:44 - qBittorrent is now ready to exit
+(W) 2024-06-15T13:02:08 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2024-06-15T13:02:08 - qBittorrent v4.6.5 started
+(N) 2024-06-15T13:02:08 - Using config directory: /config/qBittorrent
+(N) 2024-06-15T13:02:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-15T13:02:08 - Peer ID: "-qB4650-"
+(I) 2024-06-15T13:02:08 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-06-15T13:02:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-15T13:02:08 - Local Peer Discovery support: ON
+(I) 2024-06-15T13:02:08 - Peer Exchange (PeX) support: ON
+(I) 2024-06-15T13:02:08 - Anonymous mode: OFF
+(I) 2024-06-15T13:02:08 - Encryption support: ON
+(I) 2024-06-15T13:02:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-15T13:02:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-15T13:02:08 - Successfully listening on IP. IP: "172.21.0.2". Port: "TCP/6881"
+(I) 2024-06-15T13:02:08 - Successfully listening on IP. IP: "172.21.0.2". Port: "UTP/6881"
+(I) 2024-06-15T13:02:08 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-15T13:02:08 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-15T13:02:08 - Restored torrent. Torrent: "Friday the 13th Part VI - Jason Lives (1986) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-06-15T13:02:08 - Restored torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(I) 2024-06-15T13:02:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-15T13:02:08 - Using built-in WebUI.
+(W) 2024-06-15T13:02:08 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-06-15T13:02:08 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-06-15T13:02:08 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]". Reason: "Marvel's Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) fast resume rejected. file_stat(/downloads/Marvel's Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE)/Marvel's Luke Cage (2016) - S01E01 - Moment of Truth (1080p NF WEBRip x265 ImE).mkv): mismatching file size"
+(I) 2024-06-15T13:02:09 - Successfully listening on IP. IP: "10.8.8.4". Port: "TCP/6881"
+(I) 2024-06-15T13:02:09 - Successfully listening on IP. IP: "10.8.8.4". Port: "UTP/6881"
+(I) 2024-06-15T13:02:09 - Successfully listening on IP. IP: "fe80::6113:9b74:3b1a:b6%tun0". Port: "TCP/6881"
+(I) 2024-06-15T13:02:09 - Successfully listening on IP. IP: "fe80::6113:9b74:3b1a:b6%tun0". Port: "UTP/6881"
+(N) 2024-06-15T13:02:38 - WebAPI login success. IP: ::ffff:172.21.0.1
+(N) 2024-06-15T13:02:57 - Downloading torrent, please wait... Source: "https://archive.org/download/8.-a-boy-named-charlie-brown-1969-hd_20220418/8.-a-boy-named-charlie-brown-1969-hd_20220418_archive.torrent"
+(N) 2024-06-15T13:03:03 - Added new torrent. Torrent: "8.-a-boy-named-charlie-brown-1969-hd_20220418"
+(W) 2024-06-15T13:03:03 - URL seed DNS lookup failed. Torrent: "8.-a-boy-named-charlie-brown-1969-hd_20220418". URL: "/26/items/". Error: "8.-a-boy-named-charlie-brown-1969-hd_20220418 url seed (/26/items/) failed: unsupported URL protocol"
+(N) 2024-06-15T13:16:09 - Removed torrent and deleted its content. Torrent: "8.-a-boy-named-charlie-brown-1969-hd_20220418"
+(N) 2024-06-15T13:16:16 - Removed torrent and deleted its content. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(N) 2024-06-15T13:16:22 - Removed torrent and deleted its content. Torrent: "Friday the 13th Part VI - Jason Lives (1986) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-06-15T13:18:09 - Added new torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(N) 2024-06-15T13:22:12 - Removed torrent. Torrent: "Marvel&#039;s Luke Cage (2016) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit AC3 5.1 ImE) [QxR]"
+(N) 2024-06-15T13:24:04 - Added new torrent. Torrent: "Marvels.The.Defenders.S01.1080p.WEBMux.DD5.1.x264-Morpheus"
+(N) 2024-06-15T15:29:19 - Removed torrent. Torrent: "Marvels.The.Defenders.S01.1080p.WEBMux.DD5.1.x264-Morpheus"
+(I) 2024-06-15T15:30:32 - Successfully listening on IP. IP: "fe80::b473:1464:4b97:ec1a%tun0". Port: "TCP/6881"
+(I) 2024-06-15T15:30:32 - Successfully listening on IP. IP: "fe80::b473:1464:4b97:ec1a%tun0". Port: "UTP/6881"
+(N) 2024-06-15T15:31:16 - Added new torrent. Torrent: "Marvels.The.Defenders.S01.1080p.WEBMux.DD5.1.x264-Morpheus"
+(N) 2024-06-15T19:33:16 - Torrent paused. Torrent: "Marvels.The.Defenders.S01.1080p.WEBMux.DD5.1.x264-Morpheus"
+(N) 2024-06-15T19:34:23 - Torrent resumed. Torrent: "Marvels.The.Defenders.S01.1080p.WEBMux.DD5.1.x264-Morpheus"
+(N) 2024-06-15T19:43:11 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-15T19:43:11 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(N) 2024-06-15T19:43:56 - Removed torrent. Torrent: "Marvels.The.Defenders.S01.1080p.WEBMux.DD5.1.x264-Morpheus"
+(N) 2024-06-15T19:44:37 - Added new torrent. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-15T19:55:25 - Removed torrent. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-15T19:55:31 - Added new torrent. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-15T19:56:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-15T19:56:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-15T19:56:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-15T19:56:08 - Successfully listening on IP. IP: "172.21.0.2". Port: "TCP/6881"
+(I) 2024-06-15T19:56:08 - Successfully listening on IP. IP: "172.21.0.2". Port: "UTP/6881"
+(I) 2024-06-15T19:56:08 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-15T19:56:08 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-15T19:56:28 - Removed torrent. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-15T20:34:15 - Added new torrent. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-15T20:37:57 - qBittorrent termination initiated
+(N) 2024-06-15T20:37:57 - qBittorrent is now ready to exit
+(W) 2024-06-15T20:38:08 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2024-06-15T20:38:08 - qBittorrent v4.6.5 started
+(N) 2024-06-15T20:38:08 - Using config directory: /config/qBittorrent
+(N) 2024-06-15T20:38:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-06-15T20:38:08 - Peer ID: "-qB4650-"
+(I) 2024-06-15T20:38:08 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-06-15T20:38:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-15T20:38:08 - Local Peer Discovery support: ON
+(I) 2024-06-15T20:38:08 - Peer Exchange (PeX) support: ON
+(I) 2024-06-15T20:38:08 - Anonymous mode: OFF
+(I) 2024-06-15T20:38:08 - Encryption support: ON
+(I) 2024-06-15T20:38:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-06-15T20:38:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-06-15T20:38:08 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-06-15T20:38:08 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-06-15T20:38:08 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-06-15T20:38:08 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-06-15T20:38:08 - Restored torrent. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(I) 2024-06-15T20:38:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri May 31 20:35:40 2024.
+(N) 2024-06-15T20:38:08 - Using built-in WebUI.
+(W) 2024-06-15T20:38:08 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-06-15T20:38:08 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-06-15T20:38:09 - Successfully listening on IP. IP: "10.8.8.10". Port: "TCP/6881"
+(I) 2024-06-15T20:38:09 - Successfully listening on IP. IP: "10.8.8.10". Port: "UTP/6881"
+(I) 2024-06-15T20:38:09 - Successfully listening on IP. IP: "fe80::de9d:e41b:e367:5ec%tun0". Port: "TCP/6881"
+(I) 2024-06-15T20:38:09 - Successfully listening on IP. IP: "fe80::de9d:e41b:e367:5ec%tun0". Port: "UTP/6881"
+(I) 2024-06-15T20:38:12 - Detected external IP. IP: "45.139.252.19"
+(N) 2024-06-15T20:38:31 - WebAPI login success. IP: ::ffff:172.22.0.1
+(I) 2024-06-15T20:41:07 - Detected external IP. IP: "143.244.42.102"
+(N) 2024-06-15T23:37:33 - Added new torrent. Torrent: "Better.Call.Saul.S01E03.HDTV.x264-LOL[ettv]"
+(N) 2024-06-15T23:38:43 - Removed torrent. Torrent: "Better.Call.Saul.S01E03.HDTV.x264-LOL[ettv]"
+(N) 2024-06-15T23:38:50 - Added new torrent. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-06-15T23:38:59 - Removed torrent and deleted its content. Torrent: "Better Call Saul (2015) Season 1-6 S01-S06 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-06-15T23:43:58 - Torrent paused. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-15T23:44:10 - Added new torrent. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-16T00:12:54 - Added new torrent. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]"
+(N) 2024-06-16T00:20:35 - Torrent paused. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-16T00:20:36 - Torrent paused. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]"
+(N) 2024-06-16T01:08:35 - Added new torrent. Torrent: "Juice (1992) [WEBRip] [1080p] [YTS] [YIFY]"
+(I) 2024-06-16T01:09:56 - Successfully listening on IP. IP: "10.8.8.3". Port: "TCP/6881"
+(I) 2024-06-16T01:09:56 - Successfully listening on IP. IP: "10.8.8.3". Port: "UTP/6881"
+(I) 2024-06-16T01:09:56 - Successfully listening on IP. IP: "fe80::9021:2d4:7c1e:8dfa%tun0". Port: "TCP/6881"
+(I) 2024-06-16T01:09:56 - Successfully listening on IP. IP: "fe80::9021:2d4:7c1e:8dfa%tun0". Port: "UTP/6881"
+(I) 2024-06-16T01:10:00 - Detected external IP. IP: "134.19.188.91"
+(N) 2024-06-16T01:10:02 - Torrent resumed. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]"
+(N) 2024-06-16T01:10:07 - Torrent resumed. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-16T01:10:10 - Torrent resumed. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-16T01:10:24 - Torrent paused. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]"
+(N) 2024-06-16T01:10:26 - Torrent paused. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-16T01:10:28 - Torrent paused. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-16T01:18:05 - Torrent download finished. Torrent: "Juice (1992) [WEBRip] [1080p] [YTS] [YIFY]"
+(N) 2024-06-16T01:18:14 - Torrent resumed. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]"
+(N) 2024-06-16T01:18:16 - Torrent resumed. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-16T01:18:17 - Torrent resumed. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-16T01:18:33 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-06-16T01:36:30 - Added new torrent. Torrent: "Closer.2004.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265"
+(N) 2024-06-16T01:38:33 - Torrent download finished. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]"
+(W) 2024-06-16T02:06:22 - File error alert. Torrent: "Juice (1992) [WEBRip] [1080p] [YTS] [YIFY]". File: "/downloads/Juice (1992) [WEBRip] [1080p] [YTS.LT]/Juice.1992.1080p.WEBRip.x264-[YTS.LT].mp4". Reason: "Juice (1992) [WEBRip] [1080p] [YTS.LT] file_open (/downloads/Juice (1992) [WEBRip] [1080p] [YTS.LT]/Juice.1992.1080p.WEBRip.x264-[YTS.LT].mp4) error: No such file or directory"
+(I) 2024-06-16T04:17:36 - Successfully listening on IP. IP: "10.8.8.5". Port: "TCP/6881"
+(I) 2024-06-16T04:17:36 - Successfully listening on IP. IP: "10.8.8.5". Port: "UTP/6881"
+(I) 2024-06-16T04:17:36 - Successfully listening on IP. IP: "fe80::39cf:b554:b8b0:5e57%tun0". Port: "TCP/6881"
+(I) 2024-06-16T04:17:36 - Successfully listening on IP. IP: "fe80::39cf:b554:b8b0:5e57%tun0". Port: "UTP/6881"
+(I) 2024-06-16T04:18:05 - Detected external IP. IP: "89.187.163.193"
+(I) 2024-06-16T04:21:04 - Successfully listening on IP. IP: "10.8.8.12". Port: "TCP/6881"
+(I) 2024-06-16T04:21:04 - Successfully listening on IP. IP: "10.8.8.12". Port: "UTP/6881"
+(I) 2024-06-16T04:21:04 - Successfully listening on IP. IP: "fe80::342e:6641:30fe:6303%tun0". Port: "TCP/6881"
+(I) 2024-06-16T04:21:04 - Successfully listening on IP. IP: "fe80::342e:6641:30fe:6303%tun0". Port: "UTP/6881"
+(I) 2024-06-16T04:21:06 - Detected external IP. IP: "185.246.209.56"
+(N) 2024-06-16T05:25:21 - Torrent download finished. Torrent: "Marvels The Defenders S01 Season 1 Complete 1080p NF WEB-DL DD5.1 x264-NTb"
+(N) 2024-06-16T06:10:38 - Torrent download finished. Torrent: "Closer.2004.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265"
+(N) 2024-06-16T09:08:53 - Torrent download finished. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p"
+(N) 2024-06-16T11:39:15 - Added new torrent. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2024-06-16T12:15:10 - Torrent download finished. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(W) 2024-06-16T13:27:26 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 5/Read Me.txt". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_open (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 5/Read Me.txt) error: No such file or directory"
+(W) 2024-06-16T13:46:47 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv) error: No such file or directory"
+(W) 2024-06-16T13:46:48 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv) error: No such file or directory"
+(W) 2024-06-16T13:46:49 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv) error: No such file or directory"
+(W) 2024-06-16T13:49:58 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Edge of Tomorrow (2014) V2 (1080p BluRay x265 10bit Tigole).mkv) error: No such file or directory"
+(W) 2024-06-16T13:49:59 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Featurettes/On the Edge with Doug Liman (2014).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Featurettes/On the Edge with Doug Liman (2014).mkv) error: No such file or directory"
+(W) 2024-06-16T13:50:00 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Featurettes/On the Edge with Doug Liman (2014).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Featurettes/On the Edge with Doug Liman (2014).mkv) error: No such file or directory"
+(W) 2024-06-16T13:50:01 - File error alert. Torrent: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". File: "/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Featurettes/On the Edge with Doug Liman (2014).mkv". Reason: "Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) file_open (/downloads/Edge of Tomorrow (2014) V2 (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)/Featurettes/On the Edge with Doug Liman (2014).mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:24 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:30 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:32 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:34 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:37 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:41 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:44 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:48 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:51 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:52 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:55 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:44:56 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:02 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:06 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:08 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:14 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:18 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:21 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:25 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:28 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:37 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:39 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:49 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:53 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:45:57 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:46:03 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:46:11 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:48:02 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 2/Schitts Creek S02E06.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_open (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 2/Schitts Creek S02E06.mp4) error: No such file or directory"
+(W) 2024-06-16T16:49:17 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 2/Schitts Creek S02E06.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_open (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 2/Schitts Creek S02E06.mp4) error: No such file or directory"
+(W) 2024-06-16T16:52:21 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:25 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:28 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:32 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:40 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:42 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:45 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:48 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:54 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:52:57 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:00 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:01 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:02 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:05 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:10 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:13 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:16 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:18 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:20 - File error alert. Torrent: "Schitts Creek - Season 1 to 6 - Mp4 x264 AC3 1080p". File: "/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 2/Schitts Creek S02E13.mp4". Reason: "Schitts Creek Season 1 to 6 Mp4 1080p file_open (/downloads/Schitts Creek Season 1 to 6 Mp4 1080p/Season 2/Schitts Creek S02E13.mp4) error: No such file or directory"
+(W) 2024-06-16T16:53:22 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:23 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:28 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:31 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:34 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:35 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:39 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:43 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:47 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:51 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:55 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:53:57 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:01 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:03 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:05 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:08 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:09 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:13 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:16 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:19 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
+(W) 2024-06-16T16:54:22 - File error alert. Torrent: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]". File: "/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv". Reason: "The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx] file_open (/downloads/The.boys.S04E01.1080p.WEB.H264-SuccessfulCrab[TGx]/the.boys.s04e01.1080p.web.h264-successfulcrab.mkv) error: No such file or directory"
