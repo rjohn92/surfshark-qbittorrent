@@ -1,1 +1,47 @@
 # surfshark-qbittorrent
+
+This project sets up qBittorrent with Surfshark VPN using Docker. Follow these steps to configure and run the project.
+
+## Prerequisites
+
+Before you begin, make sure you have Docker installed on your system. You can download and install Docker from [here](https://docs.docker.com/get-docker/).
+
+## Steps to Set Up the Project
+
+### 1. Clone the Repository
+
+First, clone this repository to your local machine. Open a terminal and run:
+
+```sh
+git clone https://github.com/rjohn92/surfshark-qbittorrent.git
+```
+
+Alternatively, you can download the repository as a ZIP file from GitHub and extract it to your desired location.
+
+### 2. Pick a VPN Configuration File
+
+Navigate to the `config/vpn` folder and pick a VPN configuration file. These files are named according to the available Surfshark servers (e.g., `us-nyc.prod.surfshark.com_udp.ovpn`).
+
+### 3. Create a `.env` File
+
+Navigate to the project directory. You need to create a `.env` file with your Surfshark credentials and configuration. You can do this using any text editor.
+
+Create a file named `.env` and add the following content:
+
+
+### 3. Pick a VPN Configuration File
+Navigate to the config/vpn folder and pick a VPN configuration file. These files are named according to the available Surfshark servers (e.g., us-nyc.prod.surfshark.com_udp.ovpn).
+
+3. Create a `.env` File
+Navigate to the project directory. You need to create a .env file with your Surfshark credentials and configuration. You can do this using any text editor.
+
+Create a file named .env and add the following content:
+
+```sh
+OPENVPN_CONFIG=us-nyc.prod.surfshark.com_udp
+OPENVPN_PROVIDER=SURFSHARK
+OPENVPN_USERNAME=Your_Surfshark_Username
+OPENVPN_PASSWORD=Your_Surfshark_Password
+TZ=America/New_York
+```
+Replace OPENVPN_CONFIG with the name of the VPN configuration file you picked from the config/vpn folder (excluding the .ovpn extension). Replace Your_Surfshark_Username and Your_Surfshark_Password with your actual Surfshark credentials. You can get these credentials by following the instructions here.
