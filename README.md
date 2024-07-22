@@ -67,11 +67,11 @@ The user will always be: ***admin***
 Enter these credentials and now you will see the torrents page. 
 
 ### 6. Download Torrents
-1. Go to a site that has magnet torrents (recommended [1337x.to](https://1337x.to) as of July 2024).
-2. Search for a torrent and click on the selected torrent with a decent number of seeders.
-3. Right-click and copy the magnet download link.
-4. In the qBittorrent web UI, select the `File` dropdown menu.
-5. Click the `Add Torrent Link` option.
-6. In the blank dialog box, paste your magnet download link.
-7. Scroll to the bottom and click `Download`.
+-  Go to a site that has magnet torrents (recommended [1337x.to](https://1337x.to) as of July 2024).
+- Search for a torrent and click on the selected torrent with a decent number of seeders.
+- Right-click and copy the magnet download link.
+- In the qBittorrent web UI, select the `File` dropdown menu.
+- Click the `Add Torrent Link` option.
+- In the blank dialog box, paste your magnet download link.
+- Scroll to the bottom and click `Download`.
 
