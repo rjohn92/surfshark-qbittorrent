@@ -1,3 +1,4 @@
 .env
 eval "$(ssh-agent -s)"
 eval "$(ssh-agent -s)".pub
+config/openvpn-credentials.txt
