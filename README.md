@@ -58,4 +58,11 @@ This will run your web ui. You should then go to to:
 
 ***http://localhost:8080/*** 
 
-Here you will see your running torrents (if you have any).
+However, you will still need to enter a username and password. Qbittorrent UI resets this everytime the container is run/stopped. This is annoying. I don't know how to fix it. To get your randomly generated session credentials run:
+
+```sh
+docker logs qbittorrent 2>&1 | grep "this session: " | awk -F': ' '{print $2}'
+
+```
+
+THe user will always be: ***admin***
