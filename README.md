@@ -66,3 +66,9 @@ docker logs qbittorrent 2>&1 | grep "this session: " | awk -F': ' '{print $2}'
 ```
 
 THe user will always be: ***admin***
+
+Enter these credentials and now you will see the torrents page. 
+
+
+### 6. Download Torrents
+Go to a site that has magnet torrents (recommended 1337x.to as of July 2024). Search for a torrent. Click on the selected torrent with a decent amount of seeders. Then right click and copy the `magnet download` option. Now, back in the qbittorrent web UI, you want to select the `File` dropdown menu. Then click the `Add Torrent Link` option. In the blank dialog box you want to paste your magnet download link. Then scroll to the bottom and click download.
