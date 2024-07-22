@@ -32,7 +32,7 @@ Create a file named `.env` and add the following content:
 ### 3. Pick a VPN Configuration File
 Navigate to the config/vpn folder and pick a VPN configuration file. These files are named according to the available Surfshark servers (e.g., us-nyc.prod.surfshark.com_udp.ovpn).
 
-3. Create a `.env` File
+### 4. Create a `.env` File
 Navigate to the project directory. You need to create a .env file with your Surfshark credentials and configuration. You can do this using any text editor.
 
 Create a file named .env and add the following content:
@@ -45,3 +45,17 @@ OPENVPN_PASSWORD=Your_Surfshark_Password
 TZ=America/New_York
 ```
 Replace OPENVPN_CONFIG with the name of the VPN configuration file you picked from the config/vpn folder (excluding the .ovpn extension). Replace Your_Surfshark_Username and Your_Surfshark_Password with your actual Surfshark credentials. You can get these credentials by following the instructions here.
+
+
+### 5. Run the container
+Navigate to the project directory. Run this command to start the container:
+
+```sh
+./start.sh
+```
+
+This will run your web ui. You should then go to to:
+
+***http://localhost:8080/*** 
+
+Here you will see your running torrents (if you have any).
