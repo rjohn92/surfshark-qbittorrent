@@ -6,7 +6,7 @@ This project sets up qBittorrent with Surfshark VPN using Docker. Follow these s
 
 Before you begin, make sure you have Docker installed on your system. You can download and install Docker from [here](https://docs.docker.com/get-docker/). 
 
-Next make sure you have an OVPN subscription to a VPN provider. [Here](https://www.security.org/vpn/best/) you can choose from any reputable source. After you do that you have to get your credentials (these are different from your email/password credentials). 
+Next make sure you have an OVPN subscription to a VPN provider. [Here](https://www.security.org/vpn/best/) you can choose from any reputable source. After you do that you have to get your credentials (these are different from your email/password credentials). You can find instructions on getting your credentials [here](https://support.surfshark.com/hc/en-us/articles/4403182690706-How-to-set-up-OpenVPN-on-Portal-router).
 
 ## Steps to Set Up the Project
 
@@ -63,7 +63,7 @@ However, you will still need to enter a username and password. Qbittorrent UI re
 docker logs qbittorrent 2>&1 | grep "this session: " | awk -F': ' '{print $2}'
 ```
 
-The user will always be: ***admin***
+The user will always be: `admin`
 Enter these credentials and now you will see the torrents page. 
 
 ### 6. Download Torrents
