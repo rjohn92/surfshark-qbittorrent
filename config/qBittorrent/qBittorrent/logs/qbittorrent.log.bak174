@@ -1,0 +1,585 @@
+(I) 2024-08-09T10:22:11 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-09T10:22:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-09T10:22:11 - Local Peer Discovery support: ON
+(I) 2024-08-09T10:22:11 - Peer Exchange (PeX) support: ON
+(I) 2024-08-09T10:22:11 - Anonymous mode: OFF
+(I) 2024-08-09T10:22:11 - Encryption support: ON
+(I) 2024-08-09T10:22:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-09T10:22:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-09T10:22:11 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-09T10:22:11 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-09T10:22:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-09T10:22:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-09T10:22:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-09T10:22:11 - Using built-in WebUI.
+(N) 2024-08-09T10:22:11 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-09T10:22:11 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-08-09T10:22:16 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2024-08-09T10:22:18 - Successfully listening on IP. IP: "10.8.8.16". Port: "TCP/6881"
+(I) 2024-08-09T10:22:18 - Successfully listening on IP. IP: "10.8.8.16". Port: "UTP/6881"
+(I) 2024-08-09T10:22:18 - Successfully listening on IP. IP: "fe80::678a:4b37:e275:f00c%tun0". Port: "TCP/6881"
+(I) 2024-08-09T10:22:18 - Successfully listening on IP. IP: "fe80::678a:4b37:e275:f00c%tun0". Port: "UTP/6881"
+(I) 2024-08-09T10:22:21 - Detected external IP. IP: "146.70.194.222"
+(N) 2024-08-09T10:51:09 - qBittorrent termination initiated
+(N) 2024-08-09T10:51:09 - qBittorrent is now ready to exit
+(N) 2024-08-09T10:53:27 - qBittorrent v4.6.5 started
+(N) 2024-08-09T10:53:27 - Using config directory: /config/qBittorrent
+(N) 2024-08-09T10:53:27 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-09T10:53:27 - Peer ID: "-qB4650-"
+(I) 2024-08-09T10:53:27 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-09T10:53:27 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-09T10:53:27 - Local Peer Discovery support: ON
+(I) 2024-08-09T10:53:27 - Peer Exchange (PeX) support: ON
+(I) 2024-08-09T10:53:27 - Anonymous mode: OFF
+(I) 2024-08-09T10:53:27 - Encryption support: ON
+(I) 2024-08-09T10:53:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-09T10:53:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-09T10:53:27 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-09T10:53:27 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-09T10:53:27 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-09T10:53:27 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-09T10:53:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-09T10:53:27 - Using built-in WebUI.
+(N) 2024-08-09T10:53:27 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-09T10:53:27 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-09T10:53:28 - Successfully listening on IP. IP: "10.8.8.4". Port: "TCP/6881"
+(I) 2024-08-09T10:53:28 - Successfully listening on IP. IP: "10.8.8.4". Port: "UTP/6881"
+(I) 2024-08-09T10:53:28 - Successfully listening on IP. IP: "fe80::1a12:c334:acc9:e9ae%tun0". Port: "TCP/6881"
+(I) 2024-08-09T10:53:28 - Successfully listening on IP. IP: "fe80::1a12:c334:acc9:e9ae%tun0". Port: "UTP/6881"
+(N) 2024-08-09T16:02:32 - qBittorrent v4.6.5 started
+(N) 2024-08-09T16:02:32 - Using config directory: /config/qBittorrent
+(N) 2024-08-09T16:02:32 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-09T16:02:32 - Peer ID: "-qB4650-"
+(I) 2024-08-09T16:02:32 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-09T16:02:32 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-09T16:02:32 - Local Peer Discovery support: ON
+(I) 2024-08-09T16:02:32 - Peer Exchange (PeX) support: ON
+(I) 2024-08-09T16:02:32 - Anonymous mode: OFF
+(I) 2024-08-09T16:02:32 - Encryption support: ON
+(I) 2024-08-09T16:02:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-09T16:02:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-09T16:02:32 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-09T16:02:32 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-09T16:02:32 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-09T16:02:32 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-09T16:02:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-09T16:02:32 - Using built-in WebUI.
+(N) 2024-08-09T16:02:32 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-09T16:02:32 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-09T16:02:35 - Successfully listening on IP. IP: "10.8.8.16". Port: "TCP/6881"
+(I) 2024-08-09T16:02:35 - Successfully listening on IP. IP: "10.8.8.16". Port: "UTP/6881"
+(I) 2024-08-09T16:02:35 - Successfully listening on IP. IP: "fe80::ed97:c1da:7a1f:e82f%tun0". Port: "TCP/6881"
+(I) 2024-08-09T16:02:35 - Successfully listening on IP. IP: "fe80::ed97:c1da:7a1f:e82f%tun0". Port: "UTP/6881"
+(I) 2024-08-09T16:02:38 - Detected external IP. IP: "89.46.223.57"
+(N) 2024-08-09T16:26:11 - qBittorrent v4.6.5 started
+(N) 2024-08-09T16:26:11 - Using config directory: /config/qBittorrent
+(N) 2024-08-09T16:26:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-09T16:26:11 - Peer ID: "-qB4650-"
+(I) 2024-08-09T16:26:11 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-09T16:26:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-09T16:26:11 - Local Peer Discovery support: ON
+(I) 2024-08-09T16:26:11 - Peer Exchange (PeX) support: ON
+(I) 2024-08-09T16:26:11 - Anonymous mode: OFF
+(I) 2024-08-09T16:26:11 - Encryption support: ON
+(I) 2024-08-09T16:26:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-09T16:26:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-09T16:26:11 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-09T16:26:11 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-09T16:26:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-09T16:26:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-09T16:26:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-09T16:26:11 - Using built-in WebUI.
+(N) 2024-08-09T16:26:11 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-09T16:26:11 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-09T16:26:15 - Successfully listening on IP. IP: "10.8.8.10". Port: "TCP/6881"
+(I) 2024-08-09T16:26:15 - Successfully listening on IP. IP: "10.8.8.10". Port: "UTP/6881"
+(I) 2024-08-09T16:26:15 - Successfully listening on IP. IP: "fe80::6ed3:9cec:edc:cd5b%tun0". Port: "TCP/6881"
+(I) 2024-08-09T16:26:15 - Successfully listening on IP. IP: "fe80::6ed3:9cec:edc:cd5b%tun0". Port: "UTP/6881"
+(I) 2024-08-09T16:26:17 - Detected external IP. IP: "92.62.121.36"
+(I) 2024-08-09T16:31:27 - Successfully listening on IP. IP: "fe80::eeb9:6663:48f0:73d6%tun0". Port: "TCP/6881"
+(I) 2024-08-09T16:31:27 - Successfully listening on IP. IP: "fe80::eeb9:6663:48f0:73d6%tun0". Port: "UTP/6881"
+(N) 2024-08-09T16:41:20 - qBittorrent termination initiated
+(N) 2024-08-09T16:41:20 - qBittorrent is now ready to exit
+(N) 2024-08-09T16:45:24 - qBittorrent v4.6.5 started
+(N) 2024-08-09T16:45:24 - Using config directory: /config/qBittorrent
+(N) 2024-08-09T16:45:24 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-09T16:45:24 - Peer ID: "-qB4650-"
+(I) 2024-08-09T16:45:24 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-09T16:45:24 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-09T16:45:24 - Local Peer Discovery support: ON
+(I) 2024-08-09T16:45:24 - Peer Exchange (PeX) support: ON
+(I) 2024-08-09T16:45:24 - Anonymous mode: OFF
+(I) 2024-08-09T16:45:24 - Encryption support: ON
+(I) 2024-08-09T16:45:24 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-09T16:45:24 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-09T16:45:24 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-09T16:45:24 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-09T16:45:24 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-09T16:45:24 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-09T16:45:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-09T16:45:24 - Using built-in WebUI.
+(N) 2024-08-09T16:45:24 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-09T16:45:24 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-09T16:45:25 - Successfully listening on IP. IP: "10.8.8.6". Port: "TCP/6881"
+(I) 2024-08-09T16:45:25 - Successfully listening on IP. IP: "10.8.8.6". Port: "UTP/6881"
+(I) 2024-08-09T16:45:25 - Successfully listening on IP. IP: "fe80::7b9:1917:3a82:b572%tun0". Port: "TCP/6881"
+(I) 2024-08-09T16:45:25 - Successfully listening on IP. IP: "fe80::7b9:1917:3a82:b572%tun0". Port: "UTP/6881"
+(I) 2024-08-09T16:45:28 - Detected external IP. IP: "62.197.152.100"
+(I) 2024-08-12T06:09:54 - Successfully listening on IP. IP: "10.8.8.8". Port: "TCP/6881"
+(I) 2024-08-12T06:09:54 - Successfully listening on IP. IP: "10.8.8.8". Port: "UTP/6881"
+(I) 2024-08-12T06:09:54 - Successfully listening on IP. IP: "fe80::3e52:cc6e:41db:d729%tun0". Port: "TCP/6881"
+(I) 2024-08-12T06:09:54 - Successfully listening on IP. IP: "fe80::3e52:cc6e:41db:d729%tun0". Port: "UTP/6881"
+(I) 2024-08-12T14:58:51 - Successfully listening on IP. IP: "10.8.8.15". Port: "TCP/6881"
+(I) 2024-08-12T14:58:51 - Successfully listening on IP. IP: "10.8.8.15". Port: "UTP/6881"
+(I) 2024-08-12T14:58:51 - Successfully listening on IP. IP: "fe80::58ed:5b49:bfbc:a4a2%tun0". Port: "TCP/6881"
+(I) 2024-08-12T14:58:51 - Successfully listening on IP. IP: "fe80::58ed:5b49:bfbc:a4a2%tun0". Port: "UTP/6881"
+(I) 2024-08-13T00:14:00 - Successfully listening on IP. IP: "10.8.8.5". Port: "TCP/6881"
+(I) 2024-08-13T00:14:00 - Successfully listening on IP. IP: "10.8.8.5". Port: "UTP/6881"
+(I) 2024-08-13T00:14:00 - Successfully listening on IP. IP: "fe80::979c:87e8:9049:3361%tun0". Port: "TCP/6881"
+(I) 2024-08-13T00:14:00 - Successfully listening on IP. IP: "fe80::979c:87e8:9049:3361%tun0". Port: "UTP/6881"
+(I) 2024-08-13T04:23:07 - Successfully listening on IP. IP: "10.8.8.4". Port: "TCP/6881"
+(I) 2024-08-13T04:23:07 - Successfully listening on IP. IP: "10.8.8.4". Port: "UTP/6881"
+(I) 2024-08-13T04:23:07 - Successfully listening on IP. IP: "fe80::8453:2c5c:a90e:eae8%tun0". Port: "TCP/6881"
+(I) 2024-08-13T04:23:07 - Successfully listening on IP. IP: "fe80::8453:2c5c:a90e:eae8%tun0". Port: "UTP/6881"
+(N) 2024-08-13T09:22:28 - qBittorrent v4.6.5 started
+(N) 2024-08-13T09:22:28 - Using config directory: /config/qBittorrent
+(N) 2024-08-13T09:22:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-13T09:22:28 - Peer ID: "-qB4650-"
+(I) 2024-08-13T09:22:28 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-13T09:22:28 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-13T09:22:28 - Local Peer Discovery support: ON
+(I) 2024-08-13T09:22:28 - Peer Exchange (PeX) support: ON
+(I) 2024-08-13T09:22:28 - Anonymous mode: OFF
+(I) 2024-08-13T09:22:28 - Encryption support: ON
+(I) 2024-08-13T09:22:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-13T09:22:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-13T09:22:28 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-13T09:22:28 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-13T09:22:28 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-13T09:22:28 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-13T09:22:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-13T09:22:28 - Using built-in WebUI.
+(N) 2024-08-13T09:22:28 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-13T09:22:28 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-13T09:22:31 - Successfully listening on IP. IP: "10.8.8.7". Port: "TCP/6881"
+(I) 2024-08-13T09:22:31 - Successfully listening on IP. IP: "10.8.8.7". Port: "UTP/6881"
+(I) 2024-08-13T09:22:31 - Successfully listening on IP. IP: "fe80::2637:b7a6:7f3f:afb6%tun0". Port: "TCP/6881"
+(I) 2024-08-13T09:22:31 - Successfully listening on IP. IP: "fe80::2637:b7a6:7f3f:afb6%tun0". Port: "UTP/6881"
+(I) 2024-08-13T09:22:34 - Detected external IP. IP: "103.109.244.117"
+(N) 2024-08-13T10:33:34 - qBittorrent termination initiated
+(N) 2024-08-13T10:33:34 - qBittorrent is now ready to exit
+(N) 2024-08-13T10:52:26 - qBittorrent v4.6.5 started
+(N) 2024-08-13T10:52:26 - Using config directory: /config/qBittorrent
+(N) 2024-08-13T10:52:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-13T10:52:26 - Peer ID: "-qB4650-"
+(I) 2024-08-13T10:52:26 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-13T10:52:26 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-13T10:52:26 - Local Peer Discovery support: ON
+(I) 2024-08-13T10:52:26 - Peer Exchange (PeX) support: ON
+(I) 2024-08-13T10:52:26 - Anonymous mode: OFF
+(I) 2024-08-13T10:52:26 - Encryption support: ON
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-13T10:52:26 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-13T10:52:26 - Using built-in WebUI.
+(N) 2024-08-13T10:52:26 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-13T10:52:26 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "10.8.8.2". Port: "TCP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "10.8.8.2". Port: "UTP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "fe80::9e3d:813:ef06:1b24%tun0". Port: "TCP/6881"
+(I) 2024-08-13T10:52:26 - Successfully listening on IP. IP: "fe80::9e3d:813:ef06:1b24%tun0". Port: "UTP/6881"
+(N) 2024-08-14T12:07:23 - qBittorrent termination initiated
+(N) 2024-08-14T12:07:23 - qBittorrent is now ready to exit
+(N) 2024-08-14T12:10:49 - qBittorrent v4.6.5 started
+(N) 2024-08-14T12:10:49 - Using config directory: /config/qBittorrent
+(N) 2024-08-14T12:10:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-14T12:10:49 - Peer ID: "-qB4650-"
+(I) 2024-08-14T12:10:49 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-14T12:10:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-14T12:10:49 - Local Peer Discovery support: ON
+(I) 2024-08-14T12:10:49 - Peer Exchange (PeX) support: ON
+(I) 2024-08-14T12:10:49 - Anonymous mode: OFF
+(I) 2024-08-14T12:10:49 - Encryption support: ON
+(I) 2024-08-14T12:10:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-14T12:10:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-14T12:10:49 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-14T12:10:49 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-14T12:10:49 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-14T12:10:49 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-14T12:10:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-14T12:10:49 - Using built-in WebUI.
+(N) 2024-08-14T12:10:49 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-14T12:10:49 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-14T12:10:50 - Successfully listening on IP. IP: "10.8.8.13". Port: "TCP/6881"
+(I) 2024-08-14T12:10:50 - Successfully listening on IP. IP: "10.8.8.13". Port: "UTP/6881"
+(I) 2024-08-14T12:10:50 - Successfully listening on IP. IP: "fe80::7238:edc8:b613:5e9e%tun0". Port: "TCP/6881"
+(I) 2024-08-14T12:10:50 - Successfully listening on IP. IP: "fe80::7238:edc8:b613:5e9e%tun0". Port: "UTP/6881"
+(N) 2024-08-14T12:23:55 - qBittorrent termination initiated
+(N) 2024-08-14T12:23:55 - qBittorrent is now ready to exit
+(N) 2024-08-14T12:24:06 - qBittorrent v4.6.5 started
+(N) 2024-08-14T12:24:06 - Using config directory: /config/qBittorrent
+(N) 2024-08-14T12:24:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-14T12:24:06 - Peer ID: "-qB4650-"
+(I) 2024-08-14T12:24:06 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-14T12:24:06 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-14T12:24:06 - Local Peer Discovery support: ON
+(I) 2024-08-14T12:24:06 - Peer Exchange (PeX) support: ON
+(I) 2024-08-14T12:24:06 - Anonymous mode: OFF
+(I) 2024-08-14T12:24:06 - Encryption support: ON
+(I) 2024-08-14T12:24:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-14T12:24:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-14T12:24:06 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-14T12:24:06 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-14T12:24:06 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-14T12:24:06 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-14T12:24:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-14T12:24:06 - Using built-in WebUI.
+(N) 2024-08-14T12:24:06 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-14T12:24:06 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-14T12:24:08 - Successfully listening on IP. IP: "10.8.8.2". Port: "TCP/6881"
+(I) 2024-08-14T12:24:08 - Successfully listening on IP. IP: "10.8.8.2". Port: "UTP/6881"
+(I) 2024-08-14T12:24:08 - Successfully listening on IP. IP: "fe80::c0df:520c:a0f:fa2b%tun0". Port: "TCP/6881"
+(I) 2024-08-14T12:24:08 - Successfully listening on IP. IP: "fe80::c0df:520c:a0f:fa2b%tun0". Port: "UTP/6881"
+(I) 2024-08-14T12:43:50 - Successfully listening on IP. IP: "10.8.8.7". Port: "TCP/6881"
+(I) 2024-08-14T12:43:50 - Successfully listening on IP. IP: "10.8.8.7". Port: "UTP/6881"
+(I) 2024-08-14T12:43:50 - Successfully listening on IP. IP: "fe80::a308:d894:2996:d6f9%tun0". Port: "TCP/6881"
+(I) 2024-08-14T12:43:50 - Successfully listening on IP. IP: "fe80::a308:d894:2996:d6f9%tun0". Port: "UTP/6881"
+(I) 2024-08-14T12:48:47 - Successfully listening on IP. IP: "10.8.8.2". Port: "TCP/6881"
+(I) 2024-08-14T12:48:47 - Successfully listening on IP. IP: "10.8.8.2". Port: "UTP/6881"
+(I) 2024-08-14T12:48:47 - Successfully listening on IP. IP: "fe80::4fe2:56b0:bd3b:d846%tun0". Port: "TCP/6881"
+(I) 2024-08-14T12:48:47 - Successfully listening on IP. IP: "fe80::4fe2:56b0:bd3b:d846%tun0". Port: "UTP/6881"
+(I) 2024-08-14T13:48:38 - Successfully listening on IP. IP: "10.8.8.9". Port: "TCP/6881"
+(I) 2024-08-14T13:48:38 - Successfully listening on IP. IP: "10.8.8.9". Port: "UTP/6881"
+(I) 2024-08-14T13:48:38 - Successfully listening on IP. IP: "fe80::3dd8:c7f7:b017:c548%tun0". Port: "TCP/6881"
+(I) 2024-08-14T13:48:38 - Successfully listening on IP. IP: "fe80::3dd8:c7f7:b017:c548%tun0". Port: "UTP/6881"
+(I) 2024-08-14T13:53:42 - Successfully listening on IP. IP: "10.8.8.11". Port: "TCP/6881"
+(I) 2024-08-14T13:53:42 - Successfully listening on IP. IP: "10.8.8.11". Port: "UTP/6881"
+(I) 2024-08-14T13:53:42 - Successfully listening on IP. IP: "fe80::4684:f750:a440:a729%tun0". Port: "TCP/6881"
+(I) 2024-08-14T13:53:42 - Successfully listening on IP. IP: "fe80::4684:f750:a440:a729%tun0". Port: "UTP/6881"
+(N) 2024-08-14T14:37:59 - qBittorrent termination initiated
+(N) 2024-08-14T14:37:59 - qBittorrent is now ready to exit
+(N) 2024-08-14T14:47:06 - qBittorrent v4.6.5 started
+(N) 2024-08-14T14:47:06 - Using config directory: /config/qBittorrent
+(N) 2024-08-14T14:47:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-14T14:47:06 - Peer ID: "-qB4650-"
+(I) 2024-08-14T14:47:06 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-14T14:47:06 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-14T14:47:06 - Local Peer Discovery support: ON
+(I) 2024-08-14T14:47:06 - Peer Exchange (PeX) support: ON
+(I) 2024-08-14T14:47:06 - Anonymous mode: OFF
+(I) 2024-08-14T14:47:06 - Encryption support: ON
+(I) 2024-08-14T14:47:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-14T14:47:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-14T14:47:06 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-14T14:47:06 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-14T14:47:06 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-14T14:47:06 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-08-14T14:47:07 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Jul 31 20:41:08 2024.
+(N) 2024-08-14T14:47:07 - Using built-in WebUI.
+(N) 2024-08-14T14:47:07 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-08-14T14:47:07 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-08-14T14:47:08 - Successfully listening on IP. IP: "10.8.8.6". Port: "TCP/6881"
+(I) 2024-08-14T14:47:08 - Successfully listening on IP. IP: "10.8.8.6". Port: "UTP/6881"
+(I) 2024-08-14T14:47:08 - Successfully listening on IP. IP: "fe80::1400:beb8:b418:e6f7%tun0". Port: "TCP/6881"
+(I) 2024-08-14T14:47:08 - Successfully listening on IP. IP: "fe80::1400:beb8:b418:e6f7%tun0". Port: "UTP/6881"
+(W) 2024-08-14T15:29:13 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:10.0.0.149, username: admin
+(N) 2024-08-14T23:19:26 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-14T23:20:40 - Added new torrent. Torrent: "Twisters (2024) FullHD 1080p.H264 Webdl Ita Eng AC3 5.1 Sub Ita Eng - realDMDJ DDL_Ita"
+(I) 2024-08-14T23:20:40 - Detected external IP. IP: "92.119.177.22"
+(N) 2024-08-14T23:22:54 - Added new torrent. Torrent: "The.Instigators.2024.1080p.ATVP.WEBRip.DDP5.1.x265.10bit-GalaxyRG265"
+(N) 2024-08-14T23:23:39 - Added new torrent. Torrent: "Marvels.Hit-Monkey.S01E01-10.WebDL.1080p.E-AC3-AC3.ITA.ENG.SUBS.K-Z"
+(N) 2024-08-14T23:26:13 - Added new torrent. Torrent: "Chernobyl [2019] COMPLETE 1080p BDRip DTS-HD MA 5.1 Kira [SEV]"
+(N) 2024-08-14T23:29:49 - Added new torrent. Torrent: "Barry.S01E01-08.ITA-ENG.1080p.WEBMux.DD5.1.H264-NovaRip"
+(N) 2024-08-14T23:35:51 - Torrent download finished. Torrent: "Twisters (2024) FullHD 1080p.H264 Webdl Ita Eng AC3 5.1 Sub Ita Eng - realDMDJ DDL_Ita"
+(N) 2024-08-14T23:38:23 - Added new torrent. Torrent: "Barry.S02E01-08.ITA-ENG.1080p.WEBMux.DD5.1.H264-NovaRip"
+(N) 2024-08-14T23:38:48 - Removed torrent. Torrent: "Marvels.Hit-Monkey.S01E01-10.WebDL.1080p.E-AC3-AC3.ITA.ENG.SUBS.K-Z"
+(N) 2024-08-14T23:39:48 - Added new torrent. Torrent: "Marvels.Hit-Monkey.S01E01-10.WebDL.1080p.E-AC3-AC3.ITA.ENG.SUBS.K-Z"
+(N) 2024-08-14T23:43:44 - Added new torrent. Torrent: "A Quiet Place 2018 1080p BluRay x264 DTS - 5-1 KINGDOM-RG"
+(N) 2024-08-14T23:44:05 - Torrent download finished. Torrent: "The.Instigators.2024.1080p.ATVP.WEBRip.DDP5.1.x265.10bit-GalaxyRG265"
+(N) 2024-08-14T23:44:32 - Removed torrent and deleted its content. Torrent: "Chernobyl [2019] COMPLETE 1080p BDRip DTS-HD MA 5.1 Kira [SEV]"
+(N) 2024-08-14T23:44:34 - Removed torrent and deleted its content. Torrent: "A Quiet Place 2018 1080p BluRay x264 DTS - 5-1 KINGDOM-RG"
+(N) 2024-08-14T23:45:05 - Added new torrent. Torrent: "A.Quiet.Place.2018.1080p.BluRay.x264-SPARKS[EtHD]"
+(N) 2024-08-14T23:45:52 - Added new torrent. Torrent: "A Quiet Place Part II (2020) 1080p Bluray AV1 AAC Multi10 [lvl99]"
+(N) 2024-08-14T23:49:54 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: Barry.S02E01-08.ITA-ENG.1080p.WEBMux.DD5.1.H264-NovaRip
+(N) 2024-08-14T23:50:11 - Removed torrent. Torrent: "Marvels.Hit-Monkey.S01E01-10.WebDL.1080p.E-AC3-AC3.ITA.ENG.SUBS.K-Z"
+(N) 2024-08-14T23:54:42 - Added new torrent. Torrent: "Black Swan (2010) (1080p BluRay x265 HEVC 10bit AAC 5.1 afm72) [QxR]"
+(I) 2024-08-14T23:54:58 - Successfully listening on IP. IP: "10.8.8.2". Port: "TCP/6881"
+(I) 2024-08-14T23:54:58 - Successfully listening on IP. IP: "10.8.8.2". Port: "UTP/6881"
+(I) 2024-08-14T23:54:58 - Successfully listening on IP. IP: "fe80::823d:ab5e:c434:1e65%tun0". Port: "TCP/6881"
+(I) 2024-08-14T23:54:58 - Successfully listening on IP. IP: "fe80::823d:ab5e:c434:1e65%tun0". Port: "UTP/6881"
+(I) 2024-08-14T23:55:08 - Detected external IP. IP: "176.227.240.47"
+(N) 2024-08-14T23:56:08 - Added new torrent. Torrent: "Chernobyl (2019) Season 01 S01 (1080p BluRay x265 HEVC 10bit DTS 5.1 Qman) [UTR]"
+(N) 2024-08-15T00:02:17 - Torrent download finished. Torrent: "Black Swan (2010) (1080p BluRay x265 HEVC 10bit AAC 5.1 afm72) [QxR]"
+(N) 2024-08-15T00:05:37 - Added new torrent. Torrent: "The.Green.Inferno.2013.1080p.BluRay.x264-SAPHiRE"
+(N) 2024-08-15T00:12:01 - Added new torrent. Torrent: "The Exorcist (1973) 1080p BrRip x264 - YIFY"
+(N) 2024-08-15T00:13:42 - Added new torrent. Torrent: "The House That Jack Built (2018) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-15T00:14:37 - Torrent download finished. Torrent: "The Exorcist (1973) 1080p BrRip x264 - YIFY"
+(N) 2024-08-15T00:15:11 - Added new torrent. Torrent: "Arcadian (2024) (1080p BluRay x265 HEVC 10bit EAC3 5.1 r00t) [QxR]"
+(N) 2024-08-15T00:19:33 - Added new torrent. Torrent: "The Exorcist (1973) Extended Directors Cut 1080p BluRay x264 DTS-HD Soup"
+(N) 2024-08-15T00:21:42 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2024-08-15T00:22:30 - Torrent download finished. Torrent: "Arcadian (2024) (1080p BluRay x265 HEVC 10bit EAC3 5.1 r00t) [QxR]"
+(N) 2024-08-15T00:23:31 - Added new torrent. Torrent: "Resident Evil Retribution (2012) 1080p BluRay x264 Dual Audio Hindi English AC3 5.1 - MeGUiL"
+(N) 2024-08-15T00:25:00 - Added new torrent. Torrent: "Resident Evil: The Final Chapter (2016) [1080p] [YTS] [YIFY]"
+(N) 2024-08-15T00:26:10 - Added new torrent. Torrent: "Resident.Evil.Welcome.To.Raccoon.City.2021.iTA-ENG.Bluray.1080p.DTS.x264-CYBER.mkv"
+(N) 2024-08-15T00:34:00 - Torrent download finished. Torrent: "Resident Evil: The Final Chapter (2016) [1080p] [YTS] [YIFY]"
+(N) 2024-08-15T00:44:01 - Torrent download finished. Torrent: "The House That Jack Built (2018) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-15T01:31:24 - Torrent download finished. Torrent: "A Quiet Place Part II (2020) 1080p Bluray AV1 AAC Multi10 [lvl99]"
+(N) 2024-08-15T02:05:31 - Torrent download finished. Torrent: "The Exorcist (1973) Extended Directors Cut 1080p BluRay x264 DTS-HD Soup"
+(N) 2024-08-15T07:47:12 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-15T07:49:55 - Added new torrent. Torrent: "Mr. Robot (2015) Season 4 S04 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Bandi) [QxR]"
+(N) 2024-08-15T07:52:20 - Added new torrent. Torrent: "Mr. Robot : Season 01 S01 [2015] COMPLETE 1080p BDRip x265 DTS-HD MA 5.1 Kira [SEV]"
+(N) 2024-08-15T07:53:13 - Added new torrent. Torrent: "Mr. Robot (2015) Season 2 S02 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 English+French RCVR) [QxR]"
+(N) 2024-08-15T07:55:15 - Added new torrent. Torrent: "Mr. Robot (2015) Season 3 S03 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 English+Spanish RCVR) [QxR]"
+(N) 2024-08-15T07:55:41 - Removed torrent. Torrent: "Resident.Evil.Welcome.To.Raccoon.City.2021.iTA-ENG.Bluray.1080p.DTS.x264-CYBER.mkv"
+(N) 2024-08-15T07:56:44 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: Chernobyl (2019) Season 01 S01 (1080p BluRay x265 HEVC 10bit DTS 5.1 Qman) [UTR]
+(N) 2024-08-15T07:57:58 - Removed torrent. Torrent: "Chernobyl (2019) Season 01 S01 (1080p BluRay x265 HEVC 10bit DTS 5.1 Qman) [UTR]"
+(N) 2024-08-15T07:58:00 - Removed torrent and deleted its content. Torrent: "Barry.S02E01-08.ITA-ENG.1080p.WEBMux.DD5.1.H264-NovaRip"
+(N) 2024-08-15T07:58:00 - Removed torrent and deleted its content. Torrent: "Barry.S01E01-08.ITA-ENG.1080p.WEBMux.DD5.1.H264-NovaRip"
+(N) 2024-08-15T07:58:32 - Added new torrent. Torrent: "Chernobyl (2019) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-08-15T08:02:20 - Removed torrent and deleted its content. Torrent: "The.Green.Inferno.2013.1080p.BluRay.x264-SAPHiRE"
+(N) 2024-08-15T08:02:25 - Added new torrent. Torrent: "The Green Inferno (2013) [1080p] [YTS.AG] - YIFY"
+(N) 2024-08-15T08:26:38 - Torrent download finished. Torrent: "Chernobyl (2019) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]"
+(N) 2024-08-15T08:30:07 - Torrent download finished. Torrent: "The Green Inferno (2013) [1080p] [YTS.AG] - YIFY"
+(N) 2024-08-15T08:41:51 - Removed torrent and deleted its content. Torrent: "Resident Evil Retribution (2012) 1080p BluRay x264 Dual Audio Hindi English AC3 5.1 - MeGUiL"
+(N) 2024-08-15T08:42:28 - Added new torrent. Torrent: "Resident Evil Retribution 2012 1080p Bluray AV1 OPUS 5.1-DECK"
+(N) 2024-08-15T08:44:54 - Added new torrent. Torrent: "Marvels.Hit-Monkey.S02.COMPLETE.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX[TGx]"
+(N) 2024-08-15T08:46:16 - Added new torrent. Torrent: "Marvels.Hit-Monkey.S01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb"
+(N) 2024-08-15T08:46:52 - Added new torrent. Torrent: "Marvels.Hit-Monkey.S01.1080p.WEBRip.x265-KONTRAST"
+(N) 2024-08-15T08:47:18 - Removed torrent. Torrent: "Marvels.Hit-Monkey.S01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb"
+(N) 2024-08-15T09:08:44 - Torrent download finished. Torrent: "Marvels.Hit-Monkey.S02.COMPLETE.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX[TGx]"
+(N) 2024-08-15T09:12:58 - Torrent download finished. Torrent: "Resident Evil Retribution 2012 1080p Bluray AV1 OPUS 5.1-DECK"
+(N) 2024-08-15T09:33:07 - Torrent download finished. Torrent: "Marvels.Hit-Monkey.S01.1080p.WEBRip.x265-KONTRAST"
+(N) 2024-08-15T09:36:35 - Torrent download finished. Torrent: "Mr. Robot (2015) Season 4 S04 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Bandi) [QxR]"
+(N) 2024-08-15T10:33:33 - Added new torrent. Torrent: "The.Tomorrow.War.2021.REPACK.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NAISU"
+(N) 2024-08-15T10:35:06 - Added new torrent. Torrent: "The Color of Money 1986 REMASTERED 1080p WEB-DL HEVC x265 5.1 BONE"
+(N) 2024-08-15T10:36:10 - Added new torrent. Torrent: "American Gangster (2007) Extended (1080p BluRay x265 HEVC 10bit HDR AAC 7.1 afm72) [QxR]"
+(N) 2024-08-15T10:38:18 - Added new torrent. Torrent: "Outbreak.1995.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69)"
+(N) 2024-08-15T10:38:52 - Added new torrent. Torrent: "Alien vs Predator 2004 1080p BrRip x264 YIFY"
+(N) 2024-08-15T10:41:50 - Added new torrent. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(N) 2024-08-15T10:42:00 - Torrent download finished. Torrent: "The Color of Money 1986 REMASTERED 1080p WEB-DL HEVC x265 5.1 BONE"
+(N) 2024-08-15T10:44:50 - Torrent download finished. Torrent: "Alien vs Predator 2004 1080p BrRip x264 YIFY"
+(N) 2024-08-15T10:45:44 - Added new torrent. Torrent: "Barry - Season 1 - Mp4 x264 AC3 1080p"
+(N) 2024-08-15T10:46:17 - Added new torrent. Torrent: "Barry - Season 2 - Mp4 x264 AC3 1080p"
+(N) 2024-08-15T10:46:36 - Added new torrent. Torrent: "Barry - Season 3 - Mp4 x264 AC3 1080p"
+(N) 2024-08-15T10:46:53 - Added new torrent. Torrent: "Barry (2018) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) [QxR]"
+(N) 2024-08-15T10:47:22 - Removed torrent and deleted its content. Torrent: "Barry - Season 2 - Mp4 x264 AC3 1080p"
+(N) 2024-08-15T10:48:29 - Added new torrent. Torrent: "Barry (2018) Season 1 S01 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) [QxR]"
+(N) 2024-08-15T10:48:41 - Removed torrent and deleted its content. Torrent: "Barry - Season 3 - Mp4 x264 AC3 1080p"
+(N) 2024-08-15T10:48:42 - Removed torrent and deleted its content. Torrent: "Barry - Season 1 - Mp4 x264 AC3 1080p"
+(N) 2024-08-15T10:49:15 - Added new torrent. Torrent: "Barry (2018) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) REPACK [QxR]"
+(N) 2024-08-15T10:49:39 - Added new torrent. Torrent: "Barry (2018) Season 3 S03 (1080p HMAX WEB-DL x265 HEVC 10bit AC3 5.1 Ghost) [QxR]"
+(N) 2024-08-15T10:52:53 - Added new torrent. Torrent: "The Equalizer 3 2023 HYBRID BluRay 1080p DTS-HD MA TrueHD 7.1 Atmos x264-MgB"
+(N) 2024-08-15T10:54:40 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2024-08-15T10:59:36 - Added new torrent. Torrent: "The.Matrix.1999.REPACK.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-08-15T11:04:57 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2024-08-15T11:20:45 - Torrent download finished. Torrent: "Barry (2018) Season 1 S01 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) [QxR]"
+(N) 2024-08-15T11:25:22 - Torrent download finished. Torrent: "Barry (2018) Season 3 S03 (1080p HMAX WEB-DL x265 HEVC 10bit AC3 5.1 Ghost) [QxR]"
+(N) 2024-08-15T11:32:37 - Torrent download finished. Torrent: "Barry (2018) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) [QxR]"
+(N) 2024-08-15T11:37:12 - Torrent download finished. Torrent: "Barry (2018) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) REPACK [QxR]"
+(N) 2024-08-15T12:03:13 - Torrent download finished. Torrent: "Mr. Robot (2015) Season 2 S02 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 English+French RCVR) [QxR]"
+(N) 2024-08-15T12:23:31 - Torrent download finished. Torrent: "Mr. Robot (2015) Season 3 S03 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 English+Spanish RCVR) [QxR]"
+(N) 2024-08-15T12:48:54 - Torrent download finished. Torrent: "Outbreak.1995.1080p.BluRay.x265.HEVC.10bit.5,1ch(xxxpav69)"
+(N) 2024-08-15T12:53:06 - Torrent download finished. Torrent: "The Equalizer 3 2023 HYBRID BluRay 1080p DTS-HD MA TrueHD 7.1 Atmos x264-MgB"
+(N) 2024-08-15T13:25:22 - Torrent download finished. Torrent: "Mr. Robot : Season 01 S01 [2015] COMPLETE 1080p BDRip x265 DTS-HD MA 5.1 Kira [SEV]"
+(N) 2024-08-15T13:29:15 - Torrent download finished. Torrent: "The.Tomorrow.War.2021.REPACK.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NAISU"
+(N) 2024-08-15T13:34:07 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-15T14:34:19 - Removed torrent and deleted its content. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(N) 2024-08-15T14:35:05 - Added new torrent. Torrent: "The Legend of Tarzan (2016) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc"
+(N) 2024-08-15T14:36:27 - Removed torrent and deleted its content. Torrent: "The Legend of Tarzan (2016) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc"
+(N) 2024-08-15T14:36:36 - Added new torrent. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(N) 2024-08-15T14:37:58 - Added new torrent. Torrent: "Collateral (2004) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-15T14:38:42 - Added new torrent. Torrent: "Man of Steel 2013 2160p Bluray x265 AC3 EAC3-KiNGDOM"
+(N) 2024-08-15T14:40:33 - Added new torrent. Torrent: "Man of Steel (2013) 1080p UHD 10bit [60FPS] BluRay x265 HEVC [Org NF Hindi DDP 5.1 + English AAC 7.1] ESub ~ MrStrange"
+(N) 2024-08-15T14:41:42 - Removed torrent. Torrent: "Man of Steel (2013) 1080p UHD 10bit [60FPS] BluRay x265 HEVC [Org NF Hindi DDP 5.1 + English AAC 7.1] ESub ~ MrStrange"
+(N) 2024-08-15T14:44:05 - Added new torrent. Torrent: "Man of Steel (2013) REPACK (2160p BluRay x265 HEVC 10bit AAC 7.1 Joy) [UTR]"
+(N) 2024-08-15T14:44:48 - Removed torrent. Torrent: "Man of Steel 2013 2160p Bluray x265 AC3 EAC3-KiNGDOM"
+(N) 2024-08-15T14:45:30 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]
+(N) 2024-08-15T14:46:18 - Added new torrent. Torrent: "The Legend Of Tarzan (2016) [BDrip 1080p - H264 - Ita Eng Ac3 5.1 - Sub Ita Eng] by Fratposa"
+(N) 2024-08-15T14:46:25 - Removed torrent. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(N) 2024-08-15T14:47:07 - Added new torrent. Torrent: "The Legend of Tarzan (2016).Bluray.1080p.Half-SBS.DTSHD-MA 7.1 - LEGi0N[EtHD]"
+(N) 2024-08-15T14:49:06 - Removed torrent. Torrent: "The Legend Of Tarzan (2016) [BDrip 1080p - H264 - Ita Eng Ac3 5.1 - Sub Ita Eng] by Fratposa"
+(N) 2024-08-15T15:00:04 - Torrent download finished. Torrent: "Collateral (2004) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-15T15:34:13 - Torrent download finished. Torrent: "Man of Steel (2013) REPACK (2160p BluRay x265 HEVC 10bit AAC 7.1 Joy) [UTR]"
+(N) 2024-08-15T16:12:44 - Downloading torrent, please wait... Source: "https://ww4.yts.nz/torrent/download/0975C54902629B11BE4AE7B72E0EA85D51DA1FB0"
+(N) 2024-08-15T16:12:48 - Added new torrent. Torrent: "Darkness Falls (2003) [1080p] [BluRay] [5.1] [YTS.MX]"
+(N) 2024-08-15T16:47:32 - Torrent download finished. Torrent: "Darkness Falls (2003) [1080p] [BluRay] [5.1] [YTS.MX]"
+(N) 2024-08-15T17:06:40 - Torrent download finished. Torrent: "The.Matrix.1999.REPACK.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-08-15T18:35:52 - Torrent download finished. Torrent: "American Gangster (2007) Extended (1080p BluRay x265 HEVC 10bit HDR AAC 7.1 afm72) [QxR]"
+(N) 2024-08-15T19:55:08 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-15T19:58:54 - Downloading torrent, please wait... Source: "https://ww4.yts.nz/torrent/download/2951DE487FEF2A690E707B0CBE556B437B61F4D3"
+(N) 2024-08-15T19:58:57 - Added new torrent. Torrent: "A Low Down Dirty Shame (1994) [1080p] [WEBRip] [YTS.MX]"
+(N) 2024-08-15T19:59:25 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: A Low Down Dirty Shame (1994) [1080p] [WEBRip] [YTS.MX]
+(N) 2024-08-15T20:04:22 - Added new torrent. Torrent: "Mojin - The Lost Legend (2015) [1080p] [BluRay] [5.1] [YTS] [YIFY]"
+(N) 2024-08-15T20:04:30 - Removed torrent. Torrent: "Mojin - The Lost Legend (2015) [1080p] [BluRay] [5.1] [YTS] [YIFY]"
+(N) 2024-08-15T20:04:50 - Added new torrent. Torrent: "Legend.2015.1080p.BRRip.x264.AAC-ETRG"
+(N) 2024-08-15T20:08:06 - Torrent download finished. Torrent: "Legend.2015.1080p.BRRip.x264.AAC-ETRG"
+(N) 2024-08-15T20:09:41 - Added new torrent. Torrent: "Atomic.Blonde.2017.2160p.BluRay.3500MB.DDP5.1.x264-GalaxyRG"
+(N) 2024-08-15T20:20:36 - Added new torrent. Torrent: "Lucy (2014) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-15T20:45:31 - Torrent download finished. Torrent: "Atomic.Blonde.2017.2160p.BluRay.3500MB.DDP5.1.x264-GalaxyRG"
+(N) 2024-08-15T20:48:27 - Torrent download finished. Torrent: "A Low Down Dirty Shame (1994) [1080p] [WEBRip] [YTS.MX]"
+(N) 2024-08-15T21:30:08 - Added new torrent. Torrent: "The.Matrix.Reloaded.2003.2160p.MAX.WEB-DL.DDPA.5.1.DV.HDR.H.265-PiRaTeS[TGx]"
+(N) 2024-08-15T21:32:11 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2024-08-15T21:33:46 - Added new torrent. Torrent: "The.Matrix.Revolutions.2003.4K.HDR.2160p.BDRip Ita Eng x265-NAHOM"
+(N) 2024-08-15T21:46:51 - Torrent download finished. Torrent: "A.Quiet.Place.2018.1080p.BluRay.x264-SPARKS[EtHD]"
+(N) 2024-08-15T22:20:51 - Torrent download finished. Torrent: "Lucy (2014) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-15T22:36:24 - Torrent download finished. Torrent: "The.Matrix.Revolutions.2003.4K.HDR.2160p.BDRip Ita Eng x265-NAHOM"
+(N) 2024-08-15T22:42:47 - Added new torrent. Torrent: "The Matrix Reloaded (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-15T22:43:37 - Added new torrent. Torrent: "The.Matrix.Reloaded.2003.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-08-15T22:50:22 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2024-08-15T22:56:59 - Removed torrent and deleted its content. Torrent: "The.Matrix.Reloaded.2003.2160p.MAX.WEB-DL.DDPA.5.1.DV.HDR.H.265-PiRaTeS[TGx]"
+(N) 2024-08-16T01:05:44 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-16T01:06:00 - Added new torrent. Torrent: "The.Umbrella.Academy.S01-S04.MULTI.1080p.WEB-DL.H264-AOC"
+(N) 2024-08-16T01:08:19 - Downloading torrent, please wait... Source: "https://1337x.to/torrent/5866254/Chilling-Adventures-of-Sabrina-2018-Season-1-2-S01-S02-1080p-NF-WEB-DL-x265-HEVC-10bit-EAC3-5-1-Ghost-QxR/"
+(W) 2024-08-16T01:08:20 - Failed to load torrent. Reason: "expected value (list, dict, int or string) in bencoded string"
+(N) 2024-08-16T01:46:33 - Torrent download finished. Torrent: "The Matrix Reloaded (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-16T02:29:22 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-16T04:02:16 - Added new torrent. Torrent: "Chilling Adventures of Sabrina (2018) Season 01 S01 (2160p NF WEB-DL x265 HEVC 10bit AAC 5.1 Joy) [UTR]"
+(N) 2024-08-16T04:03:11 - Added new torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.2020.1080p.NF.WEB-DL.HIN-ENG.DD+5.1.x264-Telly"
+(N) 2024-08-16T04:03:28 - Removed torrent. Torrent: "Chilling Adventures of Sabrina (2018) Season 01 S01 (2160p NF WEB-DL x265 HEVC 10bit AAC 5.1 Joy) [UTR]"
+(N) 2024-08-16T04:04:34 - Added new torrent. Torrent: "Chilling Adventures of Sabrina (2018) Season 1-2 S01-S02 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) [QxR]"
+(N) 2024-08-16T04:05:09 - Removed torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.2020.1080p.NF.WEB-DL.HIN-ENG.DD+5.1.x264-Telly"
+(N) 2024-08-16T04:06:02 - Added new torrent. Torrent: "Chilling.Adventures.Of.Sabrina.S04.1080p.NF.WEBRip.DDP5.1.x264-NTG"
+(N) 2024-08-16T04:09:07 - Added new torrent. Torrent: "Chilling Adventures of Sabrina (2018) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit EAC3 5.1 RZeroX) [QxR]"
+(N) 2024-08-16T04:09:44 - Removed torrent and deleted its content. Torrent: "Chilling Adventures of Sabrina (2018) Season 1-2 S01-S02 (1080p NF WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost) [QxR]"
+(N) 2024-08-16T04:10:30 - Added new torrent. Torrent: "Chilling.Adventures.Of.Sabrina.S02.1080p.NF.WEBRip.x265.10bit.HDR.DDP5.1-ExREN"
+(N) 2024-08-16T04:11:12 - Added new torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.2020.1080p.NF.WEB-DL.HIN-ENG.DD+5.1.x264-Telly"
+(N) 2024-08-16T04:13:13 - Added new torrent. Torrent: "Chilling Adventures of Sabrina (2020) Season 3 S03 1080p 10bit NF WEB-RIP x265 [Hindi DD 640Kbps Org 5.1 - Eng DD 2.0] ~ EmKayy"
+(N) 2024-08-16T04:13:36 - Removed torrent. Torrent: "Chilling Adventures of Sabrina (2020) Season 3 S03 1080p 10bit NF WEB-RIP x265 [Hindi DD 640Kbps Org 5.1 - Eng DD 2.0] ~ EmKayy"
+(N) 2024-08-16T04:27:09 - Added new torrent. Torrent: "Chilling.Adventures.of.Sabrina.S01.1080p.NF.WEB-DL.DD5.1.x264-NTG"
+(N) 2024-08-16T04:27:29 - Removed torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.2020.1080p.NF.WEB-DL.HIN-ENG.DD+5.1.x264-Telly"
+(N) 2024-08-16T04:28:26 - Added new torrent. Torrent: "Chilling.Adventures.Of.Sabrina.Season-1.2018.1080p.NF.WebDL.AVC.DDP.5.1-DTOne"
+(N) 2024-08-16T04:28:44 - Removed torrent and deleted its content. Torrent: "Chilling.Adventures.Of.Sabrina.Season-1.2018.1080p.NF.WebDL.AVC.DDP.5.1-DTOne"
+(N) 2024-08-16T04:29:29 - Removed torrent and deleted its content. Torrent: "Chilling Adventures of Sabrina (2018) Season 1 S01 (1080p NF WEBRip x265 HEVC 10bit EAC3 5.1 RZeroX) [QxR]"
+(N) 2024-08-16T04:29:42 - Added new torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.1080p.NF.WEB-DL.DDP5.1.x264-NTG"
+(N) 2024-08-16T04:30:08 - Added new torrent. Torrent: "Chilling Adventures of Sabrina (2018) Season 3 S03 (2160p NF WEBRip x265 HEVC 10bit AAC 5.1 Joy) [UTR]"
+(N) 2024-08-16T04:30:25 - Removed torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.1080p.NF.WEB-DL.DDP5.1.x264-NTG"
+(N) 2024-08-16T04:31:43 - Added new torrent. Torrent: "Chilling Adventures of Sabrina S03 1080p NF WEB-DL Dual Audio DDP5.1 x264-BonsaiHD"
+(N) 2024-08-16T04:32:23 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: Chilling Adventures of Sabrina S03 1080p NF WEB-DL Dual Audio DDP5.1 x264-BonsaiHD
+(N) 2024-08-16T04:32:44 - Added new torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.1080p.NF.WEB-DL.DDP5.1.x264-NTG"
+(N) 2024-08-16T04:33:17 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: Chilling Adventures of Sabrina (2018) Season 3 S03 (2160p NF WEBRip x265 HEVC 10bit AAC 5.1 Joy) [UTR]
+(N) 2024-08-16T04:33:40 - Added new torrent. Torrent: "Chilling Adventures of Sabrina (2020) Season 3 S03 1080p 10bit NF WEB-RIP x265 [Hindi DD 640Kbps Org 5.1 - Eng DD 2.0] ~ EmKayy"
+(N) 2024-08-16T04:34:02 - Removed torrent. Torrent: "Chilling Adventures of Sabrina (2018) Season 3 S03 (2160p NF WEBRip x265 HEVC 10bit AAC 5.1 Joy) [UTR]"
+(N) 2024-08-16T04:34:02 - Removed torrent. Torrent: "Chilling Adventures of Sabrina S03 1080p NF WEB-DL Dual Audio DDP5.1 x264-BonsaiHD"
+(N) 2024-08-16T04:34:02 - Removed torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.1080p.NF.WEB-DL.DDP5.1.x264-NTG"
+(N) 2024-08-16T04:34:38 - Added new torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.COMPLETE.1080p.WEB.X264-AMRAP[TGx] ⭐"
+(N) 2024-08-16T04:34:46 - Removed torrent. Torrent: "Chilling Adventures of Sabrina (2020) Season 3 S03 1080p 10bit NF WEB-RIP x265 [Hindi DD 640Kbps Org 5.1 - Eng DD 2.0] ~ EmKayy"
+(N) 2024-08-16T05:21:54 - Torrent download finished. Torrent: "Chilling.Adventures.Of.Sabrina.S04.1080p.NF.WEBRip.DDP5.1.x264-NTG"
+(N) 2024-08-16T05:30:57 - Torrent download finished. Torrent: "The.Matrix.Reloaded.2003.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-08-16T05:46:39 - Torrent download finished. Torrent: "Chilling.Adventures.of.Sabrina.S03.COMPLETE.1080p.WEB.X264-AMRAP[TGx] ⭐"
+(N) 2024-08-16T06:09:40 - Torrent download finished. Torrent: "Chilling.Adventures.of.Sabrina.S01.1080p.NF.WEB-DL.DD5.1.x264-NTG"
+(N) 2024-08-16T06:21:39 - Torrent download finished. Torrent: "The.Umbrella.Academy.S01-S04.MULTI.1080p.WEB-DL.H264-AOC"
+(N) 2024-08-16T09:05:53 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-16T16:37:46 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-16T16:43:19 - Added new torrent. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(N) 2024-08-16T16:45:12 - Added new torrent. Torrent: "The Legend of Tarzan 2016 1080p AMZN WEB-DL H264 [Eng+Hin+Tam+Tel] DDP 5.1 D0T-Telly"
+(N) 2024-08-16T16:45:56 - Added new torrent. Torrent: "The.Legend.of.Tarzan.2016.1080p.BluRay.AC3.x264-ETRG"
+(N) 2024-08-16T16:46:19 - Removed torrent. Torrent: "The.Legend.of.Tarzan.2016.1080p.BluRay.AC3.x264-ETRG"
+(N) 2024-08-16T16:56:11 - Removed torrent and deleted its content. Torrent: "The Legend of Tarzan 2016 1080p AMZN WEB-DL H264 [Eng+Hin+Tam+Tel] DDP 5.1 D0T-Telly"
+(N) 2024-08-17T03:41:43 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-17T10:33:42 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-17T10:50:00 - Added new torrent. Torrent: "A.Quiet.Place.Part.II.2020.1080p.WEB.6CH.H264"
+(N) 2024-08-17T10:50:51 - Removed torrent and deleted its content. Torrent: "A Quiet Place Part II (2020) 1080p Bluray AV1 AAC Multi10 [lvl99]"
+(N) 2024-08-17T10:52:01 - Added new torrent. Torrent: "Legend (2015) AC3 5.1 ITA.ENG 1080p H265 sub ita.eng Sp33dy94 MIRCrew"
+(N) 2024-08-17T10:52:50 - Removed torrent and deleted its content. Torrent: "Legend.2015.1080p.BRRip.x264.AAC-ETRG"
+(N) 2024-08-17T10:54:19 - Added new torrent. Torrent: "Twisters (2024) [SDR] DS4K 1080p WEBRip [Hin-Eng] Atmos 5.1 &mdash; PeruGuy"
+(N) 2024-08-17T10:54:58 - Removed torrent and deleted its content. Torrent: "Twisters (2024) FullHD 1080p.H264 Webdl Ita Eng AC3 5.1 Sub Ita Eng - realDMDJ DDL_Ita"
+(N) 2024-08-17T10:57:45 - Added new torrent. Torrent: "AVP: Alien vs. Predator (2004) Unrated 1080p 10bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc"
+(N) 2024-08-17T10:58:24 - Removed torrent and deleted its content. Torrent: "Alien vs Predator 2004 1080p BrRip x264 YIFY"
+(N) 2024-08-17T11:09:50 - Torrent download finished. Torrent: "Twisters (2024) [SDR] DS4K 1080p WEBRip [Hin-Eng] Atmos 5.1 &mdash; PeruGuy"
+(N) 2024-08-17T11:16:01 - Torrent download finished. Torrent: "A.Quiet.Place.Part.II.2020.1080p.WEB.6CH.H264"
+(N) 2024-08-17T12:23:38 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-17T12:24:43 - Added new torrent. Torrent: "The Color of Money (1986) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-17T12:25:16 - Removed torrent and deleted its content. Torrent: "The Color of Money 1986 REMASTERED 1080p WEB-DL HEVC x265 5.1 BONE"
+(N) 2024-08-17T12:26:43 - Added new torrent. Torrent: "The Exorcist (1973) Extended DC (1080p Bluray x265 HEVC 10bit AAC 6.1 Tigole) [UTR]"
+(N) 2024-08-17T12:27:20 - Removed torrent. Torrent: "The Exorcist (1973) Extended DC (1080p Bluray x265 HEVC 10bit AAC 6.1 Tigole) [UTR]"
+(N) 2024-08-17T12:28:04 - Added new torrent. Torrent: "The.Exorcist.1973.Directors.Cut.1080p.BluRay.x264-RiPRG"
+(N) 2024-08-17T12:29:03 - Removed torrent and deleted its content. Torrent: "The Exorcist (1973) 1080p BrRip x264 - YIFY"
+(N) 2024-08-17T12:29:03 - Removed torrent and deleted its content. Torrent: "The.Exorcist.1973.Directors.Cut.1080p.BluRay.x264-RiPRG"
+(N) 2024-08-17T12:43:06 - Torrent download finished. Torrent: "Legend (2015) AC3 5.1 ITA.ENG 1080p H265 sub ita.eng Sp33dy94 MIRCrew"
+(N) 2024-08-17T12:47:44 - Torrent download finished. Torrent: "The Color of Money (1986) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-17T15:15:47 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-17T16:28:49 - Torrent download finished. Torrent: "AVP: Alien vs. Predator (2004) Unrated 1080p 10bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc"
+(N) 2024-08-17T16:52:04 - Torrent download finished. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(N) 2024-08-17T19:32:48 - WebAPI login success. IP: ::ffff:10.0.0.149
+(N) 2024-08-17T19:34:44 - Added new torrent. Torrent: "Resident Evil - The Final Chapter (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-17T19:36:47 - Downloading torrent, please wait... Source: "https://ww4.yts.nz/torrent/download/19B9F3ADD6E1591B9FC7874E7E956AFF96E07F72"
+(N) 2024-08-17T19:36:50 - Added new torrent. Torrent: "Resident Evil The Final Chapter (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2024-08-17T19:37:20 - Removed torrent and deleted its content. Torrent: "Resident Evil - The Final Chapter (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-17T19:37:27 - Removed torrent and deleted its content. Torrent: "Resident Evil: The Final Chapter (2016) [1080p] [YTS] [YIFY]"
+(N) 2024-08-17T21:30:33 - Removed torrent and deleted its content. Torrent: "The Legend of Tarzan (2016).Bluray.1080p.Half-SBS.DTSHD-MA 7.1 - LEGi0N[EtHD]"
+(N) 2024-08-17T21:34:46 - Added new torrent. Torrent: "Monkey Man (2024) (1080p BluRay x265 HEVC 10bit EAC3 7.1 Silence) [QxR]"
+(N) 2024-08-17T21:55:56 - Torrent download finished. Torrent: "Resident Evil The Final Chapter (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2024-08-17T22:00:12 - Added new torrent. Torrent: "The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series, Seasons 1,2,3,4,5,6 S01-S06 - 720p NF WebRip x264"
+(N) 2024-08-17T22:00:40 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series, Seasons 1,2,3,4,5,6 S01-S06 - 720p NF WebRip x264
+(N) 2024-08-17T22:02:22 - Downloading torrent, please wait... Source: "https://1337x.to/torrent/2329284/The-FRESH-PRINCE-of-BEL-AIR-1990-1996-Complete-TV-Series-Seasons-1-2-3-4-5-6-S01-S06-720p-NF-WebRip-x264/#"
+(W) 2024-08-17T22:02:23 - Failed to load torrent. Reason: "expected value (list, dict, int or string) in bencoded string"
+(N) 2024-08-17T22:02:52 - Added new torrent. Torrent: "The Fresh Prince of Bel-Air [Complete] Series S1-S6"
+(N) 2024-08-17T22:03:35 - Removed torrent. Torrent: "The Fresh Prince of Bel-Air [Complete] Series S1-S6"
+(N) 2024-08-17T22:07:55 - Torrent download finished. Torrent: "Monkey Man (2024) (1080p BluRay x265 HEVC 10bit EAC3 7.1 Silence) [QxR]"
+(N) 2024-08-17T22:09:19 - Added new torrent. Torrent: "Deadpool.And.Wolverine (2024) 1080p TELESYNC x264 COLLECTiVE-Repack CLEAN-PRINT"
+(N) 2024-08-17T22:29:49 - Torrent download finished. Torrent: "Deadpool.And.Wolverine (2024) 1080p TELESYNC x264 COLLECTiVE-Repack CLEAN-PRINT"
+(N) 2024-08-17T22:58:09 - Added new torrent. Torrent: "Alex Cross (2012 ITA/ENG) [1080p x265] "
+(N) 2024-08-17T22:59:10 - Added new torrent. Torrent: "Tyler Perry&#039;s Alex Cross 2012 1080p BluRay x264 [i_c]"
+(N) 2024-08-17T22:59:16 - Removed torrent. Torrent: "Alex Cross (2012 ITA/ENG) [1080p x265] "
+(N) 2024-08-17T23:23:06 - Added new torrent. Torrent: "The Revenant (2015) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-17T23:26:42 - Removed torrent. Torrent: "The Revenant (2015) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-17T23:27:07 - Added new torrent. Torrent: "The Revenant (2015) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-17T23:33:14 - Torrent download finished. Torrent: "Tyler Perry&#039;s Alex Cross 2012 1080p BluRay x264 [i_c]"
+(N) 2024-08-17T23:44:55 - Torrent download finished. Torrent: "The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series, Seasons 1,2,3,4,5,6 S01-S06 - 720p NF WebRip x264"
+(N) 2024-08-17T23:58:52 - Torrent paused. Torrent: "Chilling.Adventures.Of.Sabrina.S02.1080p.NF.WEBRip.x265.10bit.HDR.DDP5.1-ExREN"
+(N) 2024-08-17T23:58:55 - Torrent paused. Torrent: "The Revenant (2015) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]"
+(N) 2024-08-18T00:06:58 - qBittorrent v4.6.5 started
+(N) 2024-08-18T00:06:58 - Using config directory: /config/qBittorrent
+(N) 2024-08-18T00:06:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-08-18T00:06:58 - Peer ID: "-qB4650-"
+(I) 2024-08-18T00:06:58 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-08-18T00:06:58 - Distributed Hash Table (DHT) support: ON
+(I) 2024-08-18T00:06:58 - Local Peer Discovery support: ON
+(I) 2024-08-18T00:06:58 - Peer Exchange (PeX) support: ON
+(I) 2024-08-18T00:06:58 - Anonymous mode: OFF
+(I) 2024-08-18T00:06:58 - Encryption support: ON
+(I) 2024-08-18T00:06:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-08-18T00:06:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-08-18T00:06:58 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-08-18T00:06:58 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-08-18T00:06:58 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-08-18T00:06:58 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Chilling.Adventures.Of.Sabrina.S02.1080p.NF.WEBRip.x265.10bit.HDR.DDP5.1-ExREN"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series, Seasons 1,2,3,4,5,6 S01-S06 - 720p NF WebRip x264"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Tyler Perry&#039;s Alex Cross 2012 1080p BluRay x264 [i_c]"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The Revenant (2015) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Chilling.Adventures.Of.Sabrina.S02.1080p.NF.WEBRip.x265.10bit.HDR.DDP5.1-ExREN". Reason: "Chilling.Adventures.Of.Sabrina.S02.1080p.NF.WEBRip.x265.10bit.HDR.DDP5.1-ExREN[rartv] fast resume rejected. file_stat(/downloads/Chilling.Adventures.Of.Sabrina.S02.1080p.NF.WEBRip.x265.10bit.HDR.DDP5.1-ExREN[rartv]/Chilling.Adventures.Of.Sabrina.S02E01.1080p.NF.WEB-DL.DDP5.1.HDR.H.265-ExREN.mkv): mismatching file size"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series, Seasons 1,2,3,4,5,6 S01-S06 - 720p NF WebRip x264". Reason: "The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series - 720p NF WebRip x264 fast resume rejected. file_stat(/downloads/The FRESH PRINCE of BEL-AIR (1990-1996) - Complete TV Series - 720p NF WebRip x264/Other FUNNY Movies and Shows, HERE/ATLANTA - Complete FIRST Season 1 S01 (2016 Series) - 720p Web-DL x264.txt): mismatching file size"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Revenant (2015) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]". Reason: "The Revenant (2015) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) fast resume rejected. file_stat(/downloads/The Revenant (2015) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Revenant (2015) (2160p BluRay x265 10bit HDR Tigole).mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "A.Quiet.Place.2018.1080p.BluRay.x264-SPARKS[EtHD]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "A.Quiet.Place.2018.1080p.BluRay.x264-SPARKS[EtHD]". Reason: "A.Quiet.Place.2018.1080p.BluRay.x264-SPARKS[EtHD] fast resume rejected. file_stat(/downloads/A.Quiet.Place.2018.1080p.BluRay.x264-SPARKS[EtHD]/Downloaded from www.ETTV.tv .txt): mismatching file size"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Tyler Perry&#039;s Alex Cross 2012 1080p BluRay x264 [i_c]". Reason: "Tyler Perry's Alex Cross 2012 1080p BluRay x264 [i_c] fast resume rejected. file_stat(/downloads/Tyler Perry's Alex Cross 2012 1080p BluRay x264 [i_c]/Tyler Perry's Alex Cross 2012 1080p BluRay x264 [i_c].mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The Green Inferno (2013) [1080p] [YTS.AG] - YIFY"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Green Inferno (2013) [1080p] [YTS.AG] - YIFY". Reason: "The Green Inferno (2013) [1080p] [YTS.AG] fast resume rejected. file_stat(/downloads/The Green Inferno (2013) [1080p] [YTS.AG]/WWW.YTS.AG.jpg): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Darkness Falls (2003) [1080p] [BluRay] [5.1] [YTS.MX]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Darkness Falls (2003) [1080p] [BluRay] [5.1] [YTS.MX]". Reason: "Darkness Falls (2003) [1080p] [BluRay] [5.1] [YTS.MX] fast resume rejected. file_stat(/downloads/Darkness Falls (2003) [1080p] [BluRay] [5.1] [YTS.MX]/Darkness.Falls.2003.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) [QxR]". Reason: "The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence) fast resume rejected. file_stat(/downloads/The Legend of Tarzan (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Silence)/The Legend of Tarzan (2016) (1080p BluRay x265 Silence).mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Chilling.Adventures.of.Sabrina.S03.COMPLETE.1080p.WEB.X264-AMRAP[TGx] ⭐"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Chilling.Adventures.Of.Sabrina.S04.1080p.NF.WEBRip.DDP5.1.x264-NTG"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Chilling.Adventures.of.Sabrina.S03.COMPLETE.1080p.WEB.X264-AMRAP[TGx] ⭐". Reason: "Chilling.Adventures.of.Sabrina.S03.COMPLETE.1080p.WEB.X264-AMRAP[TGx] fast resume rejected. file_stat(/downloads/Chilling.Adventures.of.Sabrina.S03.COMPLETE.1080p.WEB.X264-AMRAP[TGx]/Chilling.Adventures.of.Sabrina.S03E01.iNTERNAL.1080p.WEB.X264-AMRAP.mkv): mismatching file size"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Chilling.Adventures.Of.Sabrina.S04.1080p.NF.WEBRip.DDP5.1.x264-NTG". Reason: "Chilling.Adventures.Of.Sabrina.S04.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv] fast resume rejected. file_stat(/downloads/Chilling.Adventures.Of.Sabrina.S04.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/Chilling.Adventures.Of.Sabrina.S04E01.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The.Matrix.Reloaded.2003.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The.Matrix.Reloaded.2003.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM". Reason: "The.Matrix.Reloaded.2003.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM fast resume rejected. file_stat(/downloads/The.Matrix.Reloaded.2003.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM/[TGx]Downloaded from torrentgalaxy.to .txt.txt): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The Color of Money (1986) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "American Gangster (2007) Extended (1080p BluRay x265 HEVC 10bit HDR AAC 7.1 afm72) [QxR]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Color of Money (1986) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]". Reason: "The Color of Money (1986) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) fast resume rejected. file_stat(/downloads/The Color of Money (1986) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/The Color of Money (1986) (1080p BluRay x265 10bit Tigole).mkv): mismatching file size"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "American Gangster (2007) Extended (1080p BluRay x265 HEVC 10bit HDR AAC 7.1 afm72) [QxR]". Reason: "American Gangster (2007) Extended (1080p BluRay x265 HEVC 10bit HDR AAC 7.1 afm72) fast resume rejected. file_stat(/downloads/American Gangster (2007) Extended (1080p BluRay x265 HEVC 10bit HDR AAC 7.1 afm72)/American Gangster (2007) Extended (1080p BluRay x265 HDR afm72).mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "The House That Jack Built (2018) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Marvels.Hit-Monkey.S02.COMPLETE.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX[TGx]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The House That Jack Built (2018) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]". Reason: "The House That Jack Built (2018) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) fast resume rejected. file_stat(/downloads/The House That Jack Built (2018) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/Featurettes/Featurette.mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "AVP: Alien vs. Predator (2004) Unrated 1080p 10bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Marvels.Hit-Monkey.S02.COMPLETE.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX[TGx]". Reason: "Marvels.Hit-Monkey.S02.COMPLETE.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX[TGx] fast resume rejected. file_stat(/downloads/Marvels.Hit-Monkey.S02.COMPLETE.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX[TGx]/Marvels.Hit-Monkey.S02E01.Return.to.Sender.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX.mkv): mismatching file size"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "AVP: Alien vs. Predator (2004) Unrated 1080p 10bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc". Reason: "AVP - Alien vs. Predator (2004) Unrated 1080p 10bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc fast resume rejected. file_stat(/downloads/AVP - Alien vs. Predator (2004) Unrated 1080p 10bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc/AVP.jpg): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Resident Evil The Final Chapter (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(W) 2024-08-18T00:06:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Resident Evil The Final Chapter (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]". Reason: "Resident Evil The Final Chapter (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX] fast resume rejected. file_stat(/downloads/Resident Evil The Final Chapter (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Resident.Evil.The.Final.Chapter.2016.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv): mismatching file size"
+(N) 2024-08-18T00:06:58 - Restored torrent. Torrent: "Marvels.Hit-Monkey.S01.1080p.WEBRip.x265-KONTRAST"

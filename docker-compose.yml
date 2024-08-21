@@ -33,7 +33,7 @@ services:
       - TZ=America/New_York
     volumes:
       - /home/home-server/Containers/surfshark-qbittorrent/config/qBittorrent:/config
-      - /home/home-server/Media:/downloads
+      - ${DOWNLOADS}:/downloads
     network_mode: service:gluetun
     depends_on:
       - gluetun
